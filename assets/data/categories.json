@@ -1,107 +1,149 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "waschtische",
+        "name": "Waschtische",
+        "slug": "waschtische",
+        "productCategory": "Waschtische",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "einzelwaschtische",
+        "name": "Einzelwaschtische",
+        "slug": "einzelwaschtische",
+        "productCategory": "Einzelwaschtische",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "badezimmerschränke",
+        "name": "Badezimmerschränke",
+        "slug": "badezimmerschranke",
+        "productCategory": "Badezimmerschränke",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "spiegelschränke",
+        "name": "Spiegelschränke",
+        "slug": "spiegelschranke",
+        "productCategory": "Spiegelschränke",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "waschbeckenunterschränke",
+        "name": "Waschbeckenunterschränke",
+        "slug": "waschbeckenunterschranke",
+        "productCategory": "Waschbeckenunterschränke",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "badregale & badablagen",
+        "name": "Badregale & Badablagen",
+        "slug": "badregale-badablagen",
+        "productCategory": "Badregale & Badablagen",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "bad-wandregale",
+        "name": "Bad-Wandregale",
+        "slug": "bad-wandregale",
+        "productCategory": "Bad-Wandregale",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "waschtischplatten",
+        "name": "Waschtischplatten",
+        "slug": "waschtischplatten",
+        "productCategory": "Waschtischplatten",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "bad-hochschränke",
+        "name": "Bad-Hochschränke",
+        "slug": "bad-hochschranke",
+        "productCategory": "Bad-Hochschränke",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "bad-hängeschränke",
+        "name": "Bad-Hängeschränke",
+        "slug": "bad-hangeschranke",
+        "productCategory": "Bad-Hängeschränke",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "bad-einbauschränke",
+        "name": "Bad-Einbauschränke",
+        "slug": "bad-einbauschranke",
+        "productCategory": "Bad-Einbauschränke",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "badmöbel-sets",
+        "name": "Badmöbel-Sets",
+        "slug": "badmobel-sets",
+        "productCategory": "Badmöbel-Sets",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "badmöbel-zubehör",
+        "name": "Badmöbel-Zubehör",
+        "slug": "badmobel-zubehor",
+        "productCategory": "Badmöbel-Zubehör",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "doppelwaschtische",
+        "name": "Doppelwaschtische",
+        "slug": "doppelwaschtische",
+        "productCategory": "Doppelwaschtische",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "badkommoden",
+        "name": "Badkommoden",
+        "slug": "badkommoden",
+        "productCategory": "Badkommoden",
+        "subCategories": []
+    },
+    {
+        "key": "duschregale",
+        "name": "Duschregale",
+        "slug": "duschregale",
+        "productCategory": "Duschregale",
+        "subCategories": []
+    },
+    {
+        "key": "bad-standregale",
+        "name": "Bad-Standregale",
+        "slug": "bad-standregale",
+        "productCategory": "Bad-Standregale",
+        "subCategories": []
+    },
+    {
+        "key": "teleskop-regale",
+        "name": "Teleskop-Regale",
+        "slug": "teleskop-regale",
+        "productCategory": "Teleskop-Regale",
+        "subCategories": []
+    },
+    {
+        "key": "waschtisch gäste-wc",
+        "name": "Waschtisch Gäste-WC",
+        "slug": "waschtisch-gaste-wc",
+        "productCategory": "Waschtisch Gäste-WC",
+        "subCategories": []
+    },
+    {
+        "key": "badhocker",
+        "name": "Badhocker",
+        "slug": "badhocker",
+        "productCategory": "Badhocker",
+        "subCategories": []
+    },
+    {
+        "key": "medizinschränke",
+        "name": "Medizinschränke",
+        "slug": "medizinschranke",
+        "productCategory": "Medizinschränke",
         "subCategories": []
     }
 ]

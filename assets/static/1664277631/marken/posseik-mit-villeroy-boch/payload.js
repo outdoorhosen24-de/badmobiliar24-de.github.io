@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/posseik-mit-villeroy-boch", {data:[{_img:{}}],fetch:{},mutations:void 0});

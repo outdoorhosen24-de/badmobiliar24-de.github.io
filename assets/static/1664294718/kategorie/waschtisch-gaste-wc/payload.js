@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/waschtisch-gaste-wc", {data:[{_img:{}}],fetch:{},mutations:void 0});

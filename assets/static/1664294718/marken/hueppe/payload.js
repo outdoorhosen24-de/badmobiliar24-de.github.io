@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/hueppe", {data:[{_img:{}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/baliv-moss-green-trend", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/baliv-moss-green-trend-waschbeckenschrank-bm-6530-holz-moosgruen-baliv-moss-green-trend-7002892-1.jpg":"\u002Fassets\u002Fimages\u002Fbaliv-moss-green-trend-waschbeckenschrank-bm-6530-holz-moosgruen-baliv-moss-green-trend-7002892-1.webp"}}],fetch:{},mutations:void 0});

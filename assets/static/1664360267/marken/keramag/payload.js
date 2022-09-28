@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/keramag", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/kg-befestigungsatz-zu-123555-und-123655-keramag-5156054-1.jpg":"\u002Fassets\u002Fimages\u002Fkg-befestigungsatz-zu-123555-und-123655-keramag-5156054-1.webp"}}],fetch:{},mutations:void 0});

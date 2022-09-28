@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/aquasu", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/aquasu-plan-waschbecken-untergestell-mit-fusz-150-cm-wenge-furniert-aquasu-8841413-1.jpg":"\u002Fassets\u002Fimages\u002Faquasu-plan-waschbecken-untergestell-mit-fusz-150-cm-wenge-furniert-aquasu-8841413-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "badmobiliar24.de",
     "hostname": "https://www.badmobiliar24.de/",
-    "email": "badmobiliar24.de@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "email": "badmobiliar24.desurrealnetworks.io",
+    "organization": "badmobiliar24.de",
+    "logoText": "Badmobiliar24.de",
+    "title": "Badm\u00f6bel",
+    "subline": "Der Online Shop f\u00fcr Badm\u00f6bel",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "7700289",
+        "7101355",
+        "9730698",
+        "5082094",
+        "5887237",
+        "5082060"
+    ],
+    "winnerProducts": [
+        "5135967",
+        "2457125",
+        "1753904"
+    ],
+    "featuredCategories": [
+        "Duschregale",
+        "Duschregale",
+        "Waschtisch G\u00e4ste-WC",
+        "Waschtisch G\u00e4ste-WC",
+        "Bad-Hochschr\u00e4nke",
+        "Medizinschr\u00e4nke"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Badm\u00f6bel",
-        "featureText": "Your featured text goes here",
+        "featureText": "Das Gesch\u00e4ft f\u00fcr Badm\u00f6bel ist die perfekte L\u00f6sung f\u00fcr alle, die auf der Suche nach neuen M\u00f6beln f\u00fcr ihr Badezimmer sind. Das Sortiment umfasst alles, von Badewannen \u00fcber Duschen bis hin zu WCs und Waschbecken. Auch die Auswahl an Tapeten und Bodenbel\u00e4gen ist beeindruckend. Die Preise sind sehr fair und die Qualit\u00e4t der M\u00f6bel ist hervorragend.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Badm\u00f6belgesch\u00e4ft",
+            "metaDescription": "Badm\u00f6bel f\u00fcr Ihr Badezimmer. Hochwertige Badm\u00f6bel in vielen Stilen. Kostenloser Versand ab 100\u20ac.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Badm\u00f6bel: M\u00f6bel f\u00fcr das Badezimmer",
+                    "text": "Badm\u00f6bel sind ein wesentlicher Bestandteil eines Badezimmers. Sie k\u00f6nnen das Aussehen und die Funktionalit\u00e4t eines Badezimmers erheblich verbessern. Badm\u00f6bel sind in einer Vielzahl von Stilen, Gr\u00f6\u00dfen und Preisklassen erh\u00e4ltlich. Bevor Sie sich f\u00fcr ein bestimmtes Modell entscheiden, sollten Sie sorgf\u00e4ltig abw\u00e4gen, welche Art von Badm\u00f6beln Sie ben\u00f6tigen.\n\nDie h\u00e4ufigsten Arten von Badm\u00f6beln sind Badezimmerschr\u00e4nke, Waschbeckenunterschr\u00e4nke und Spiegel. Badezimmerschr\u00e4nke k\u00f6nnen in einer Vielzahl von Stilen erworben werden, von klassischen Holzschr\u00e4nken bis hin zu modernen Metall- oder Glasmodellen. Waschbeckenunterschr\u00e4nke sind in der Regel aus Holz oder Metall gefertigt und k\u00f6nnen in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen erworben werden. Spiegel sind in der Regel aus Glas oder Metall gefertigt und k\u00f6nnen in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen erworben werden.\n\nBadezimmerschr\u00e4nke k\u00f6nnen entweder an der Wand befestigt oder freistehend aufgestellt werden. Die meisten Badezimmerschr\u00e4nke haben eine oder mehrere Schubladen, in denen Sie Ihre Badezimmerutensilien aufbewahren k\u00f6nnen. Badezimmerschr\u00e4nke sind in der Regel aus Holz, Metall oder Glas gefertigt.\n\nWaschbeckenunterschr\u00e4nke sind in der Regel aus Holz oder Metall gefertig"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Badm\u00f6bel Shop",
+            "metaDescription": "Badm\u00f6bel Shop - Hier findest du alles f\u00fcr dein Bad! Vom Waschbecken bis zur Badewanne, wir haben alles was du brauchst!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Badm\u00f6belhersteller",
+            "metaDescription": "Badm\u00f6bel-Hersteller bietet eine gro\u00dfe Auswahl an hochwertigen Badm\u00f6beln f\u00fcr Ihr Zuhause.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Badm\u00f6bel: $PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Erg\u00e4nzung f\u00fcr Ihr Badezimmer. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an $KATEGORIE.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Badm\u00f6bel $KATEGORIE \u2013 die besten M\u00f6bel f\u00fcr Ihr Badezimmer",
+        "defaultMetaDescription": "Badm\u00f6bel in $KATEGORIE - Finde die besten Badm\u00f6bel f\u00fcr dein Zuhause. W\u00e4hle aus verschiedenen Stilen und Designs.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "Badm\u00f6bel von $HERSTELLER - hochwertige M\u00f6bel f\u00fcr Ihr Badezimmer. Vom Waschbecken \u00fcber die Badewanne bis zur Toilette.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Badm\u00f6bel",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Badm\u00f6bel Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Badm\u00f6bel Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }

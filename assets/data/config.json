@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "badmobiliar24.de",
     "hostname": "https://www.badmobiliar24.de/",
     "email": "badmobiliar24.desurrealnetworks.io",
     "organization": "badmobiliar24.de",
     "logoText": "Badmobiliar24.de",
-    "title": "Badm\u00f6bel",
-    "subline": "Der Online Shop f\u00fcr Badm\u00f6bel",
+    "title": "Badmöbel",
+    "subline": "Der Online Shop für Badmöbel",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -30,10 +30,10 @@
     "featuredCategories": [
         "Duschregale",
         "Duschregale",
-        "Waschtisch G\u00e4ste-WC",
-        "Waschtisch G\u00e4ste-WC",
-        "Bad-Hochschr\u00e4nke",
-        "Medizinschr\u00e4nke"
+        "Waschtisch Gäste-WC",
+        "Waschtisch Gäste-WC",
+        "Bad-Hochschränke",
+        "Medizinschränke"
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
@@ -45,49 +45,49 @@
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "Badm\u00f6bel",
-        "featureText": "Das Gesch\u00e4ft f\u00fcr Badm\u00f6bel ist die perfekte L\u00f6sung f\u00fcr alle, die auf der Suche nach neuen M\u00f6beln f\u00fcr ihr Badezimmer sind. Das Sortiment umfasst alles, von Badewannen \u00fcber Duschen bis hin zu WCs und Waschbecken. Auch die Auswahl an Tapeten und Bodenbel\u00e4gen ist beeindruckend. Die Preise sind sehr fair und die Qualit\u00e4t der M\u00f6bel ist hervorragend.",
+        "mainKeyword": "Badmöbel",
+        "featureText": "Das Geschäft für Badmöbel ist die perfekte Lösung für alle, die auf der Suche nach neuen Möbeln für ihr Badezimmer sind. Das Sortiment umfasst alles, von Badewannen über Duschen bis hin zu WCs und Waschbecken. Auch die Auswahl an Tapeten und Bodenbelägen ist beeindruckend. Die Preise sind sehr fair und die Qualität der Möbel ist hervorragend.",
         "index": {
-            "title": "Badm\u00f6belgesch\u00e4ft",
-            "metaDescription": "Badm\u00f6bel f\u00fcr Ihr Badezimmer. Hochwertige Badm\u00f6bel in vielen Stilen. Kostenloser Versand ab 100\u20ac.",
+            "title": "Badmöbelgeschäft",
+            "metaDescription": "Badmöbel für Ihr Badezimmer. Hochwertige Badmöbel in vielen Stilen. Kostenloser Versand ab 100€.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Badm\u00f6bel: M\u00f6bel f\u00fcr das Badezimmer",
-                    "text": "Badm\u00f6bel sind ein wesentlicher Bestandteil eines Badezimmers. Sie k\u00f6nnen das Aussehen und die Funktionalit\u00e4t eines Badezimmers erheblich verbessern. Badm\u00f6bel sind in einer Vielzahl von Stilen, Gr\u00f6\u00dfen und Preisklassen erh\u00e4ltlich. Bevor Sie sich f\u00fcr ein bestimmtes Modell entscheiden, sollten Sie sorgf\u00e4ltig abw\u00e4gen, welche Art von Badm\u00f6beln Sie ben\u00f6tigen.\n\nDie h\u00e4ufigsten Arten von Badm\u00f6beln sind Badezimmerschr\u00e4nke, Waschbeckenunterschr\u00e4nke und Spiegel. Badezimmerschr\u00e4nke k\u00f6nnen in einer Vielzahl von Stilen erworben werden, von klassischen Holzschr\u00e4nken bis hin zu modernen Metall- oder Glasmodellen. Waschbeckenunterschr\u00e4nke sind in der Regel aus Holz oder Metall gefertigt und k\u00f6nnen in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen erworben werden. Spiegel sind in der Regel aus Glas oder Metall gefertigt und k\u00f6nnen in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen erworben werden.\n\nBadezimmerschr\u00e4nke k\u00f6nnen entweder an der Wand befestigt oder freistehend aufgestellt werden. Die meisten Badezimmerschr\u00e4nke haben eine oder mehrere Schubladen, in denen Sie Ihre Badezimmerutensilien aufbewahren k\u00f6nnen. Badezimmerschr\u00e4nke sind in der Regel aus Holz, Metall oder Glas gefertigt.\n\nWaschbeckenunterschr\u00e4nke sind in der Regel aus Holz oder Metall gefertig"
+                    "title": "Badmöbel: Möbel für das Badezimmer",
+                    "text": "Badmöbel sind ein wesentlicher Bestandteil eines Badezimmers. Sie können das Aussehen und die Funktionalität eines Badezimmers erheblich verbessern. Badmöbel sind in einer Vielzahl von Stilen, Größen und Preisklassen erhältlich. Bevor Sie sich für ein bestimmtes Modell entscheiden, sollten Sie sorgfältig abwägen, welche Art von Badmöbeln Sie benötigen.\n\nDie häufigsten Arten von Badmöbeln sind Badezimmerschränke, Waschbeckenunterschränke und Spiegel. Badezimmerschränke können in einer Vielzahl von Stilen erworben werden, von klassischen Holzschränken bis hin zu modernen Metall- oder Glasmodellen. Waschbeckenunterschränke sind in der Regel aus Holz oder Metall gefertigt und können in verschiedenen Größen und Ausführungen erworben werden. Spiegel sind in der Regel aus Glas oder Metall gefertigt und können in verschiedenen Größen und Ausführungen erworben werden.\n\nBadezimmerschränke können entweder an der Wand befestigt oder freistehend aufgestellt werden. Die meisten Badezimmerschränke haben eine oder mehrere Schubladen, in denen Sie Ihre Badezimmerutensilien aufbewahren können. Badezimmerschränke sind in der Regel aus Holz, Metall oder Glas gefertigt.\n\nWaschbeckenunterschränke sind in der Regel aus Holz oder Metall gefertig"
                 }
             ]
         },
         "shop": {
-            "title": "Badm\u00f6bel Shop",
-            "metaDescription": "Badm\u00f6bel Shop - Hier findest du alles f\u00fcr dein Bad! Vom Waschbecken bis zur Badewanne, wir haben alles was du brauchst!",
+            "title": "Badmöbel Shop",
+            "metaDescription": "Badmöbel Shop - Hier findest du alles für dein Bad! Vom Waschbecken bis zur Badewanne, wir haben alles was du brauchst!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Badm\u00f6belhersteller",
-            "metaDescription": "Badm\u00f6bel-Hersteller bietet eine gro\u00dfe Auswahl an hochwertigen Badm\u00f6beln f\u00fcr Ihr Zuhause.",
+            "title": "Badmöbelhersteller",
+            "metaDescription": "Badmöbel-Hersteller bietet eine große Auswahl an hochwertigen Badmöbeln für Ihr Zuhause.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Badm\u00f6bel: $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Erg\u00e4nzung f\u00fcr Ihr Badezimmer. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an $KATEGORIE.",
+        "defaultTitle": "Badmöbel: $PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Ergänzung für Ihr Badezimmer. Wählen Sie aus unserer großen Auswahl an $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Badm\u00f6bel $KATEGORIE \u2013 die besten M\u00f6bel f\u00fcr Ihr Badezimmer",
-        "defaultMetaDescription": "Badm\u00f6bel in $KATEGORIE - Finde die besten Badm\u00f6bel f\u00fcr dein Zuhause. W\u00e4hle aus verschiedenen Stilen und Designs.",
+        "defaultTitle": "Badmöbel $KATEGORIE – die besten Möbel für Ihr Badezimmer",
+        "defaultMetaDescription": "Badmöbel in $KATEGORIE - Finde die besten Badmöbel für dein Zuhause. Wähle aus verschiedenen Stilen und Designs.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "Badm\u00f6bel von $HERSTELLER - hochwertige M\u00f6bel f\u00fcr Ihr Badezimmer. Vom Waschbecken \u00fcber die Badewanne bis zur Toilette.",
+        "defaultMetaDescription": "Badmöbel von $HERSTELLER - hochwertige Möbel für Ihr Badezimmer. Vom Waschbecken über die Badewanne bis zur Toilette.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
@@ -132,19 +132,19 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Badm\u00f6bel",
+            "linkTitle": "Badmöbel",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Badm\u00f6bel Shop",
+            "linkTitle": "Badmöbel Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Badm\u00f6bel Marken",
+            "linkTitle": "Badmöbel Marken",
             "publish": true
         },
         {

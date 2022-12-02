@@ -51,12 +51,15 @@
             "title": "Badmöbelgeschäft",
             "metaDescription": "Badmöbel für Ihr Badezimmer. Hochwertige Badmöbel in vielen Stilen. Kostenloser Versand ab 100€.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Badmöbel: Möbel für das Badezimmer",
-                    "text": "Badmöbel sind ein wesentlicher Bestandteil eines Badezimmers. Sie können das Aussehen und die Funktionalität eines Badezimmers erheblich verbessern. Badmöbel sind in einer Vielzahl von Stilen, Größen und Preisklassen erhältlich. Bevor Sie sich für ein bestimmtes Modell entscheiden, sollten Sie sorgfältig abwägen, welche Art von Badmöbeln Sie benötigen.\n\nDie häufigsten Arten von Badmöbeln sind Badezimmerschränke, Waschbeckenunterschränke und Spiegel. Badezimmerschränke können in einer Vielzahl von Stilen erworben werden, von klassischen Holzschränken bis hin zu modernen Metall- oder Glasmodellen. Waschbeckenunterschränke sind in der Regel aus Holz oder Metall gefertigt und können in verschiedenen Größen und Ausführungen erworben werden. Spiegel sind in der Regel aus Glas oder Metall gefertigt und können in verschiedenen Größen und Ausführungen erworben werden.\n\nBadezimmerschränke können entweder an der Wand befestigt oder freistehend aufgestellt werden. Die meisten Badezimmerschränke haben eine oder mehrere Schubladen, in denen Sie Ihre Badezimmerutensilien aufbewahren können. Badezimmerschränke sind in der Regel aus Holz, Metall oder Glas gefertigt.\n\nWaschbeckenunterschränke sind in der Regel aus Holz oder Metall gefertig"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Badmöbel: Möbel für das Badezimmer",
+                        "text": "Badmöbel sind ein wesentlicher Bestandteil eines Badezimmers. Sie können das Aussehen und die Funktionalität eines Badezimmers erheblich verbessern. Badmöbel sind in einer Vielzahl von Stilen, Größen und Preisklassen erhältlich. Bevor Sie sich für ein bestimmtes Modell entscheiden, sollten Sie sorgfältig abwägen, welche Art von Badmöbeln Sie benötigen.\n\nDie häufigsten Arten von Badmöbeln sind Badezimmerschränke, Waschbeckenunterschränke und Spiegel. Badezimmerschränke können in einer Vielzahl von Stilen erworben werden, von klassischen Holzschränken bis hin zu modernen Metall- oder Glasmodellen. Waschbeckenunterschränke sind in der Regel aus Holz oder Metall gefertigt und können in verschiedenen Größen und Ausführungen erworben werden. Spiegel sind in der Regel aus Glas oder Metall gefertigt und können in verschiedenen Größen und Ausführungen erworben werden.\n\nBadezimmerschränke können entweder an der Wand befestigt oder freistehend aufgestellt werden. Die meisten Badezimmerschränke haben eine oder mehrere Schubladen, in denen Sie Ihre Badezimmerutensilien aufbewahren können. Badezimmerschränke sind in der Regel aus Holz, Metall oder Glas gefertigt.\n\nWaschbeckenunterschränke sind in der Regel aus Holz oder Metall gefertig"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Badmöbel Shop",

@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "badmobiliar24.de",
     "hostname": "https://www.badmobiliar24.de/",
     "email": "badmobiliar24.de@surrealnetworks.io",
     "organization": "badmobiliar24.de",
     "logoText": "Badmobiliar24.de",
     "title": "Badmöbel",
-    "subline": "Der Online Shop für Badmöbel",
+    "subline": "Der Online-Shop für Badezimmermöbel",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Badmöbel",
-        "featureText": "Das Geschäft für Badmöbel ist die perfekte Lösung für alle, die auf der Suche nach neuen Möbeln für ihr Badezimmer sind. Das Sortiment umfasst alles, von Badewannen über Duschen bis hin zu WCs und Waschbecken. Auch die Auswahl an Tapeten und Bodenbelägen ist beeindruckend. Die Preise sind sehr fair und die Qualität der Möbel ist hervorragend.",
+        "featureText": "Der Badezimmermöbel Shop ist die perfekte Lösung für alle, die auf der Suche nach neuen Möbeln für ihr Badezimmer sind. Das Sortiment reicht von Badkommode, über Duschregale bis hin zu Waschtischen und Waschbeckenunterschränken. Auch Badhocker und Medizinschränke werden angeboten. Die Preise sind fair, die Qualität der Möbel ausgezeichnet.",
         "index": {
-            "title": "Badmöbelgeschäft",
-            "metaDescription": "Badmöbel für Ihr Badezimmer. Hochwertige Badmöbel in vielen Stilen. Kostenloser Versand ab 100€.",
+            "title": "Der Shop für Badezimmermöbel",
+            "metaDescription": "Badmöbel für die Einrichtung Ihres Badezimmers. Badmöbel von hoher Qualität und in vielen verschiedenen Stilen. Schnelle Lieferung und top Preise.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,18 +62,18 @@
             }
         },
         "shop": {
-            "title": "Badmöbel Shop",
-            "metaDescription": "Badmöbel Shop - Hier findest du alles für dein Bad! Vom Waschbecken bis zur Badewanne, wir haben alles was du brauchst!",
+            "title": "Badezimmermöbel Shop",
+            "metaDescription": "Badezimmermöbel Shop - Hier findest du alles für dein Badezimmer! Vom Duschregal, bis zu Medizinschränken - wir haben alles, was du für dein Bad brauchst!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Badmöbelhersteller",
-            "metaDescription": "Badmöbel-Hersteller bietet eine große Auswahl an hochwertigen Badmöbeln für Ihr Zuhause.",
+            "title": "Hersteller von Badezimmermöbel",
+            "metaDescription": "Hersteller von Badmöbeln bietet Ihnen eine große Auswahl an qualitativ hochwertigen Badmöbeln für Ihr Zuhause. Top Marken und top Produkte.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Badmöbel: $PRODUKT",
+        "defaultTitle": "$PRODUKT",
         "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Ergänzung für Ihr Badezimmer. Wählen Sie aus unserer großen Auswahl an $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Badmöbel $KATEGORIE – die besten Möbel für Ihr Badezimmer",
-        "defaultMetaDescription": "Badmöbel in $KATEGORIE - Finde die besten Badmöbel für dein Zuhause. Wähle aus verschiedenen Stilen und Designs.",
+        "defaultTitle": "$KATEGORIE – die besten Möbel für Ihr Badezimmer",
+        "defaultMetaDescription": "Badezimmermöbel aus der Kategorie $KATEGORIE - Finde die besten Badezimmermöbel für dein Zuhause. Wähle aus einer Vielzahl von Stilen und Designs.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Badmöbel von $HERSTELLER - hochwertige Möbel für Ihr Badezimmer. Vom Waschbecken über die Badewanne bis zur Toilette.",
+        "defaultTitle": "$HERSTELLER | Badezimmermöbel",
+        "defaultMetaDescription": "Badmöbel von $HERSTELLER - Badmöbel von hoher Qualität für ein schönes Zuhause. Bestellen Sie jetzt die besten Produkte von $HERSTELLER. ",
         "defaultRobots": "index, follow",
         "brands": [
             {

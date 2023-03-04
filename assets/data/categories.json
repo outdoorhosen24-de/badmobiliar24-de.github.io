@@ -16,21 +16,21 @@
     {
         "key": "badezimmerschränke",
         "name": "Badezimmerschränke",
-        "slug": "badezimmerschranke",
+        "slug": "badezimmerschraenke",
         "productCategory": "Badezimmerschränke",
         "subCategories": []
     },
     {
         "key": "spiegelschränke",
         "name": "Spiegelschränke",
-        "slug": "spiegelschranke",
+        "slug": "spiegelschraenke",
         "productCategory": "Spiegelschränke",
         "subCategories": []
     },
     {
         "key": "waschbeckenunterschränke",
         "name": "Waschbeckenunterschränke",
-        "slug": "waschbeckenunterschranke",
+        "slug": "waschbeckenunterschraenke",
         "productCategory": "Waschbeckenunterschränke",
         "subCategories": []
     },
@@ -58,35 +58,35 @@
     {
         "key": "bad-hochschränke",
         "name": "Bad-Hochschränke",
-        "slug": "bad-hochschranke",
+        "slug": "bad-hochschraenke",
         "productCategory": "Bad-Hochschränke",
         "subCategories": []
     },
     {
         "key": "bad-hängeschränke",
         "name": "Bad-Hängeschränke",
-        "slug": "bad-hangeschranke",
+        "slug": "bad-haengeschraenke",
         "productCategory": "Bad-Hängeschränke",
         "subCategories": []
     },
     {
         "key": "bad-einbauschränke",
         "name": "Bad-Einbauschränke",
-        "slug": "bad-einbauschranke",
+        "slug": "bad-einbauschraenke",
         "productCategory": "Bad-Einbauschränke",
         "subCategories": []
     },
     {
         "key": "badmöbel-sets",
         "name": "Badmöbel-Sets",
-        "slug": "badmobel-sets",
+        "slug": "badmoebel-sets",
         "productCategory": "Badmöbel-Sets",
         "subCategories": []
     },
     {
         "key": "badmöbel-zubehör",
         "name": "Badmöbel-Zubehör",
-        "slug": "badmobel-zubehor",
+        "slug": "badmoebel-zubehoer",
         "productCategory": "Badmöbel-Zubehör",
         "subCategories": []
     },
@@ -128,7 +128,7 @@
     {
         "key": "waschtisch gäste-wc",
         "name": "Waschtisch Gäste-WC",
-        "slug": "waschtisch-gaste-wc",
+        "slug": "waschtisch-gaeste-wc",
         "productCategory": "Waschtisch Gäste-WC",
         "subCategories": []
     },
@@ -142,7 +142,7 @@
     {
         "key": "medizinschränke",
         "name": "Medizinschränke",
-        "slug": "medizinschranke",
+        "slug": "medizinschraenke",
         "productCategory": "Medizinschränke",
         "subCategories": []
     }

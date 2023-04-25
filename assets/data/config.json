@@ -1,248 +1,251 @@
 {
-    "configIsReady": true,
-    "domain": "badmobiliar24.de",
-    "hostname": "https://www.badmobiliar24.de/",
-    "email": "badmobiliar24.de@surrealnetworks.io",
-    "organization": "badmobiliar24.de",
-    "logoText": "Badmobiliar24.de",
-    "title": "Badmöbel",
-    "subline": "Der Online-Shop für Badezimmermöbel",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "7700289",
-        "7101355",
-        "9730698",
-        "5082094",
-        "5887237",
-        "5082060"
-    ],
-    "winnerProducts": [
-        "5135967",
-        "2457125",
-        "1753904"
-    ],
-    "featuredCategories": [
-        "Duschregale",
-        "Duschregale",
-        "Waschtisch Gäste-WC",
-        "Waschtisch Gäste-WC",
-        "Bad-Hochschränke",
-        "Medizinschränke"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Badmöbel",
-        "featureText": "Der Badezimmermöbel Shop ist die perfekte Lösung für alle, die auf der Suche nach neuen Möbeln für ihr Badezimmer sind. Das Sortiment reicht von Badkommode, über Duschregale bis hin zu Waschtischen und Waschbeckenunterschränken. Auch Badhocker und Medizinschränke werden angeboten. Die Preise sind fair, die Qualität der Möbel ausgezeichnet.",
-        "index": {
-            "title": "Der Shop für Badezimmermöbel",
-            "metaDescription": "Badmöbel für die Einrichtung Ihres Badezimmers. Badmöbel von hoher Qualität und in vielen verschiedenen Stilen. Schnelle Lieferung und top Preise.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Badmöbel24!",
-                        "text": "Badmöbel24 ist Ihr Online-Shop für hochwertige und moderne Badmöbel. Bei uns finden Sie eine breite Auswahl an Waschtischen, Badezimmerschränken, Spiegelschränken und vielem mehr. Wir bieten Ihnen eine Vielzahl an verschiedenen Stilrichtungen und Designs, von klassisch bis modern, um Ihr Badezimmer genau nach Ihren Wünschen einzurichten. Unser Ziel ist es, Ihnen die bestmögliche Einkaufserfahrung zu bieten. Deshalb achten wir auf eine einfache Navigation und eine benutzerfreundliche Oberfläche. Außerdem bieten wir Ihnen eine sichere und zuverlässige Bestellabwicklung, damit Sie sich voll und ganz auf Ihre neuen Badmöbel freuen können. Schauen Sie sich in Ruhe um und entdecken Sie die vielfältigen Möglichkeiten, die wir Ihnen bieten. Ob Sie auf der Suche nach einem neuen Waschbecken sind oder Ihr komplettes Badezimmer renovieren möchten - bei uns finden Sie alles, was Sie brauchen. Wir sind stolz darauf, Ihnen eine große Auswahl an hochwertigen Produkten zu bieten und Ihnen bei der Gestaltung Ihres Badezimmers zur Seite zu stehen. Lassen Sie sich inspirieren und finden Sie Ihre neuen Badmöbel bei Badmöbel24. Wir freuen uns auf Ihre Bestellung!"
-                    },
-                    {
-                        "title": "Waschtische",
-                        "text": "Entdecken Sie die große Auswahl an <a href=\"/kategorie/waschtische/\" title=\"Waschtische\">Waschtische</a>n auf Badmobiliar24.de. Unsere Waschtische bieten Ihnen eine Vielzahl an Stilen, Größen und Materialien, um Ihr Badezimmer zu einem Ort der Entspannung und Eleganz zu machen. Wählen Sie aus einer Vielzahl an Designs, von modern bis traditionell, um Ihr Badezimmer zu einem Ort zu machen, an dem Sie sich wohl fühlen. Mit unseren Waschtischen können Sie Ihr Badezimmer nach Ihren Wünschen gestalten und es zu einem Raum machen, in dem Sie gerne Zeit verbringen."
-                    },
-                    {
-                        "title": "Einzelwaschtische",
-                        "text": "Ein Einzelwaschbecken ist die perfekte Wahl für kleine Badezimmer oder Gäste-WCs. Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/einzelwaschtische/\" title=\"Einzelwaschtische\">Einzelwaschtische</a>n in verschiedenen Größen, Formen und Materialien. Ob Sie ein klassisches oder modernes Design bevorzugen, wir haben das perfekte Einzelwaschbecken für Sie. Unsere Einzelwaschtische sind nicht nur stilvoll, sondern auch praktisch und funktional. Verleihen Sie Ihrem Badezimmer eine neue Persönlichkeit mit einem Einzelwaschbecken von Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Badezimmerschränke",
-                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/badezimmerschraenke/\" title=\"Badezimmerschränke\">Badezimmerschränke</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Ob Sie einen klassischen Holzschrank oder einen modernen Hochglanzschrank bevorzugen, wir haben die perfekte Lösung für Sie. Unsere Badezimmerschränke bieten viel Stauraum für alle Ihre Badutensilien und helfen Ihnen, Ihr Badezimmer ordentlich und aufgeräumt zu halten. Entdecken Sie jetzt die große Auswahl an Badezimmerschränken auf Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Spiegelschränke",
-                        "text": "Entdecken Sie die große Auswahl an <a href=\"/kategorie/spiegelschraenke/\" title=\"Spiegelschränke\">Spiegelschränke</a>n auf Badmobiliar24.de. Unsere Spiegelschränke sind nicht nur praktisch, sondern auch stilvoll und bieten Ihnen eine große Menge an Stauraum für alle Ihre Badutensilien. Wählen Sie aus einer Vielzahl an Designs und Größen, um Ihr Badezimmer zu einem Ort der Eleganz und Funktionalität zu machen. Unsere Spiegelschränke sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt die große Auswahl an Spiegelschränken auf Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Waschbeckenunterschränke",
-                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/waschbeckenunterschraenke/\" title=\"Waschbeckenunterschränke\">Waschbeckenunterschränke</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Waschbeckenunterschränke bieten Ihnen viel Stauraum für alle Ihre Badutensilien und helfen Ihnen, Ihr Badezimmer ordentlich und aufgeräumt zu halten. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Waschbeckenunterschrank für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Waschbeckenunterschränken auf Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Badregale & Badablagen",
-                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an Badregalen und Badablagen, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Badregale und Badablagen bieten Ihnen viel Stauraum für alle Ihre Badutensilien und helfen Ihnen, Ihr Badezimmer ordentlich und aufgeräumt zu halten. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Badregal oder die perfekte Badablage für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Badregalen und Badablagen auf Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Bad-Wandregale",
-                        "text": "Entdecken Sie die große Auswahl an <a href=\"/kategorie/bad-wandregale/\" title=\"Bad-Wandregale\">Bad-Wandregale</a>n auf Badmobiliar24.de. Unsere Bad-Wandregale sind die perfekte Lösung, um Ihr Badezimmer ordentlich und aufgeräumt zu halten. Sie bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach an der Wand zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Bad-Wandregal für Ihr Badezimmer zu finden. Unsere Bad-Wandregale sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt die große Auswahl an Bad-Wandregalen auf Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Waschtischplatten",
-                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/waschtischplatten/\" title=\"Waschtischplatten\">Waschtischplatten</a>, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Waschtischplatten bieten Ihnen eine große Menge an Stauraum für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um die perfekte Waschtischplatte für Ihr Badezimmer zu finden. Unsere Waschtischplatten sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt die große Auswahl an Waschtischplatten auf Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Bad-Hochschränke",
-                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/bad-hochschraenke/\" title=\"Bad-Hochschränke\">Bad-Hochschränke</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Bad-Hochschränke bieten Ihnen viel Stauraum für alle Ihre Badutensilien und helfen Ihnen, Ihr Badezimmer ordentlich und aufgeräumt zu halten. Wählen Sie aus einer Vielzahl an Designs und Größen, um den perfekten Bad-Hochschrank für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Bad-Hochschränken auf Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Bad-Hängeschränke",
-                        "text": "Entdecken Sie die große Auswahl an <a href=\"/kategorie/bad-haengeschraenke/\" title=\"Bad-Hängeschränke\">Bad-Hängeschränke</a>n auf Badmobiliar24.de. Unsere Bad-Hängeschränke sind die perfekte Lösung, um Ihr Badezimmer ordentlich und aufgeräumt zu halten. Sie bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach an der Wand zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Bad-Hängeschrank für Ihr Badezimmer zu finden. Unsere Bad-Hängeschränke sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt die große Auswahl an Bad-Hängeschränken auf Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Bad-Einbauschränke",
-                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/bad-einbauschraenke/\" title=\"Bad-Einbauschränke\">Bad-Einbauschränke</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Bad-Einbauschränke bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach in Ihr Badezimmer zu integrieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um den perfekten Bad-Einbauschrank für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Bad-Einbauschränken auf Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Badmöbel-Sets",
-                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/badmoebel-sets/\" title=\"Badmöbel-Sets\">Badmöbel-Sets</a>, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Badmöbel-Sets bieten Ihnen eine einfache und praktische Möglichkeit, Ihr Badezimmer auszustatten. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Badmöbel-Set für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Badmöbel-Sets auf Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Badmöbel-Zubehör",
-                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/badmoebel-zubehoer/\" title=\"Badmöbel-Zubehör\">Badmöbel-Zubehör</a>, das Ihnen dabei hilft, Ihr Badezimmer perfekt auszustatten. Unser Badmöbel-Zubehör bietet Ihnen eine Vielzahl an praktischen Lösungen, um Ihr Badezimmer ordentlich und aufgeräumt zu halten. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Badmöbel-Zubehör für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Badmöbel-Zubehör auf Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Doppelwaschtische",
-                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/doppelwaschtische/\" title=\"Doppelwaschtische\">Doppelwaschtische</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Doppelwaschtische bieten Ihnen viel Platz für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um den perfekten Doppelwaschtisch für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Doppelwaschtischen auf Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Badkommoden",
-                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/badkommoden/\" title=\"Badkommoden\">Badkommoden</a>, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Badkommoden bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um die perfekte Badkommode für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Badkommoden auf Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Duschregale",
-                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/duschregale/\" title=\"Duschregale\">Duschregale</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Duschregale bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Duschregal für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Duschregalen auf Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Bad-Standregale",
-                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/bad-standregale/\" title=\"Bad-Standregale\">Bad-Standregale</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Bad-Standregale bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Bad-Standregal für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Bad-Standregalen auf Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Teleskop-Regale",
-                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/teleskop-regale/\" title=\"Teleskop-Regale\">Teleskop-Regale</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Teleskop-Regale bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Teleskop-Regal für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Teleskop-Regalen auf Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Waschtisch Gäste-WC",
-                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an Waschtischen für das Gäste-WC, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Waschtische für das Gäste-WC bieten Ihnen viel Stauraum und eine stilvolle Optik, die Ihr Gäste-WC zu einem echten Highlight macht. Wählen Sie aus einer Vielzahl an Designs und Größen, um den perfekten Waschtisch für Ihr Gäste-WC zu finden. Entdecken Sie jetzt die große Auswahl an Waschtischen für das Gäste-WC auf Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Badhocker",
-                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/badhocker/\" title=\"Badhocker\">Badhocker</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Badhocker bieten Ihnen eine bequeme Sitzmöglichkeit und eine stilvolle Optik, die Ihr Badezimmer zu einem echten Highlight macht. Wählen Sie aus einer Vielzahl an Designs und Größen, um den perfekten Badhocker für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Badhockern auf Badmobiliar24.de."
-                    },
-                    {
-                        "title": "Medizinschränke",
-                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/medizinschraenke/\" title=\"Medizinschränke\">Medizinschränke</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Medizinschränke bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um den perfekten Medizinschrank für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Medizinschränken auf Badmobiliar24.de."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Badezimmermöbel Shop",
-            "metaDescription": "Badezimmermöbel Shop - Hier findest du alles für dein Badezimmer! Vom Duschregal, bis zu Medizinschränken - wir haben alles, was du für dein Bad brauchst!",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Hersteller von Badezimmermöbel",
-            "metaDescription": "Hersteller von Badmöbeln bietet Ihnen eine große Auswahl an qualitativ hochwertigen Badmöbeln für Ihr Zuhause. Top Marken und top Produkte.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Ergänzung für Ihr Badezimmer. Wählen Sie aus unserer großen Auswahl an $KATEGORIE.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "badmobiliar24.de",
+  "hostname": "https://www.badmobiliar24.de/",
+  "email": "badmobiliar24.de@surrealnetworks.io",
+  "organization": "badmobiliar24.de",
+  "logoText": "Badmobiliar24.de",
+  "title": "Badm\u00f6bel",
+  "subline": "Der Online-Shop f\u00fcr Badezimmerm\u00f6bel",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "7700289",
+    "7101355",
+    "9730698",
+    "5082094",
+    "5887237",
+    "5082060"
+  ],
+  "winnerProducts": [
+    "5135967",
+    "2457125",
+    "1753904"
+  ],
+  "featuredCategories": [
+    "Duschregale",
+    "Duschregale",
+    "Waschtisch G\u00e4ste-WC",
+    "Waschtisch G\u00e4ste-WC",
+    "Bad-Hochschr\u00e4nke",
+    "Medizinschr\u00e4nke"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Badm\u00f6bel",
+    "featureText": "Der Badezimmerm\u00f6bel Shop ist die perfekte L\u00f6sung f\u00fcr alle, die auf der Suche nach neuen M\u00f6beln f\u00fcr ihr Badezimmer sind. Das Sortiment reicht von Badkommode, \u00fcber Duschregale bis hin zu Waschtischen und Waschbeckenunterschr\u00e4nken. Auch Badhocker und Medizinschr\u00e4nke werden angeboten. Die Preise sind fair, die Qualit\u00e4t der M\u00f6bel ausgezeichnet.",
+    "index": {
+      "title": "Der Shop f\u00fcr Badezimmerm\u00f6bel",
+      "metaDescription": "Badm\u00f6bel f\u00fcr die Einrichtung Ihres Badezimmers. Badm\u00f6bel von hoher Qualit\u00e4t und in vielen verschiedenen Stilen. Schnelle Lieferung und top Preise.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Badm\u00f6bel24!",
+            "text": "Badm\u00f6bel24 ist Ihr Online-Shop f\u00fcr hochwertige und moderne Badm\u00f6bel. Bei uns finden Sie eine breite Auswahl an Waschtischen, Badezimmerschr\u00e4nken, Spiegelschr\u00e4nken und vielem mehr. Wir bieten Ihnen eine Vielzahl an verschiedenen Stilrichtungen und Designs, von klassisch bis modern, um Ihr Badezimmer genau nach Ihren W\u00fcnschen einzurichten. Unser Ziel ist es, Ihnen die bestm\u00f6gliche Einkaufserfahrung zu bieten. Deshalb achten wir auf eine einfache Navigation und eine benutzerfreundliche Oberfl\u00e4che. Au\u00dferdem bieten wir Ihnen eine sichere und zuverl\u00e4ssige Bestellabwicklung, damit Sie sich voll und ganz auf Ihre neuen Badm\u00f6bel freuen k\u00f6nnen. Schauen Sie sich in Ruhe um und entdecken Sie die vielf\u00e4ltigen M\u00f6glichkeiten, die wir Ihnen bieten. Ob Sie auf der Suche nach einem neuen Waschbecken sind oder Ihr komplettes Badezimmer renovieren m\u00f6chten - bei uns finden Sie alles, was Sie brauchen. Wir sind stolz darauf, Ihnen eine gro\u00dfe Auswahl an hochwertigen Produkten zu bieten und Ihnen bei der Gestaltung Ihres Badezimmers zur Seite zu stehen. Lassen Sie sich inspirieren und finden Sie Ihre neuen Badm\u00f6bel bei Badm\u00f6bel24. Wir freuen uns auf Ihre Bestellung!"
+          },
+          {
+            "title": "Waschtische",
+            "text": "Entdecken Sie die gro\u00dfe Auswahl an <a href=\"/kategorie/waschtische/\" title=\"Waschtische\">Waschtische</a>n auf Badmobiliar24.de. Unsere Waschtische bieten Ihnen eine Vielzahl an Stilen, Gr\u00f6\u00dfen und Materialien, um Ihr Badezimmer zu einem Ort der Entspannung und Eleganz zu machen. W\u00e4hlen Sie aus einer Vielzahl an Designs, von modern bis traditionell, um Ihr Badezimmer zu einem Ort zu machen, an dem Sie sich wohl f\u00fchlen. Mit unseren Waschtischen k\u00f6nnen Sie Ihr Badezimmer nach Ihren W\u00fcnschen gestalten und es zu einem Raum machen, in dem Sie gerne Zeit verbringen."
+          },
+          {
+            "title": "Einzelwaschtische",
+            "text": "Ein Einzelwaschbecken ist die perfekte Wahl f\u00fcr kleine Badezimmer oder G\u00e4ste-WCs. Auf Badmobiliar24.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/einzelwaschtische/\" title=\"Einzelwaschtische\">Einzelwaschtische</a>n in verschiedenen Gr\u00f6\u00dfen, Formen und Materialien. Ob Sie ein klassisches oder modernes Design bevorzugen, wir haben das perfekte Einzelwaschbecken f\u00fcr Sie. Unsere Einzelwaschtische sind nicht nur stilvoll, sondern auch praktisch und funktional. Verleihen Sie Ihrem Badezimmer eine neue Pers\u00f6nlichkeit mit einem Einzelwaschbecken von Badmobiliar24.de."
+          },
+          {
+            "title": "Badezimmerschr\u00e4nke",
+            "text": "Auf Badmobiliar24.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/badezimmerschraenke/\" title=\"Badezimmerschr\u00e4nke\">Badezimmerschr\u00e4nke</a>n, die perfekt auf Ihre Bed\u00fcrfnisse und den Stil Ihres Badezimmers abgestimmt sind. Ob Sie einen klassischen Holzschrank oder einen modernen Hochglanzschrank bevorzugen, wir haben die perfekte L\u00f6sung f\u00fcr Sie. Unsere Badezimmerschr\u00e4nke bieten viel Stauraum f\u00fcr alle Ihre Badutensilien und helfen Ihnen, Ihr Badezimmer ordentlich und aufger\u00e4umt zu halten. Entdecken Sie jetzt die gro\u00dfe Auswahl an Badezimmerschr\u00e4nken auf Badmobiliar24.de."
+          },
+          {
+            "title": "Spiegelschr\u00e4nke",
+            "text": "Entdecken Sie die gro\u00dfe Auswahl an <a href=\"/kategorie/spiegelschraenke/\" title=\"Spiegelschr\u00e4nke\">Spiegelschr\u00e4nke</a>n auf Badmobiliar24.de. Unsere Spiegelschr\u00e4nke sind nicht nur praktisch, sondern auch stilvoll und bieten Ihnen eine gro\u00dfe Menge an Stauraum f\u00fcr alle Ihre Badutensilien. W\u00e4hlen Sie aus einer Vielzahl an Designs und Gr\u00f6\u00dfen, um Ihr Badezimmer zu einem Ort der Eleganz und Funktionalit\u00e4t zu machen. Unsere Spiegelschr\u00e4nke sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt die gro\u00dfe Auswahl an Spiegelschr\u00e4nken auf Badmobiliar24.de."
+          },
+          {
+            "title": "Waschbeckenunterschr\u00e4nke",
+            "text": "Auf Badmobiliar24.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/waschbeckenunterschraenke/\" title=\"Waschbeckenunterschr\u00e4nke\">Waschbeckenunterschr\u00e4nke</a>n, die perfekt auf Ihre Bed\u00fcrfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Waschbeckenunterschr\u00e4nke bieten Ihnen viel Stauraum f\u00fcr alle Ihre Badutensilien und helfen Ihnen, Ihr Badezimmer ordentlich und aufger\u00e4umt zu halten. W\u00e4hlen Sie aus einer Vielzahl an Designs und Gr\u00f6\u00dfen, um das perfekte Waschbeckenunterschrank f\u00fcr Ihr Badezimmer zu finden. Entdecken Sie jetzt die gro\u00dfe Auswahl an Waschbeckenunterschr\u00e4nken auf Badmobiliar24.de."
+          },
+          {
+            "title": "Badregale & Badablagen",
+            "text": "Auf Badmobiliar24.de finden Sie eine gro\u00dfe Auswahl an Badregalen und Badablagen, die perfekt auf Ihre Bed\u00fcrfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Badregale und Badablagen bieten Ihnen viel Stauraum f\u00fcr alle Ihre Badutensilien und helfen Ihnen, Ihr Badezimmer ordentlich und aufger\u00e4umt zu halten. W\u00e4hlen Sie aus einer Vielzahl an Designs und Gr\u00f6\u00dfen, um das perfekte Badregal oder die perfekte Badablage f\u00fcr Ihr Badezimmer zu finden. Entdecken Sie jetzt die gro\u00dfe Auswahl an Badregalen und Badablagen auf Badmobiliar24.de."
+          },
+          {
+            "title": "Bad-Wandregale",
+            "text": "Entdecken Sie die gro\u00dfe Auswahl an <a href=\"/kategorie/bad-wandregale/\" title=\"Bad-Wandregale\">Bad-Wandregale</a>n auf Badmobiliar24.de. Unsere Bad-Wandregale sind die perfekte L\u00f6sung, um Ihr Badezimmer ordentlich und aufger\u00e4umt zu halten. Sie bieten Ihnen viel Stauraum f\u00fcr alle Ihre Badutensilien und sind einfach an der Wand zu montieren. W\u00e4hlen Sie aus einer Vielzahl an Designs und Gr\u00f6\u00dfen, um das perfekte Bad-Wandregal f\u00fcr Ihr Badezimmer zu finden. Unsere Bad-Wandregale sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt die gro\u00dfe Auswahl an Bad-Wandregalen auf Badmobiliar24.de."
+          },
+          {
+            "title": "Waschtischplatten",
+            "text": "Auf Badmobiliar24.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/waschtischplatten/\" title=\"Waschtischplatten\">Waschtischplatten</a>, die perfekt auf Ihre Bed\u00fcrfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Waschtischplatten bieten Ihnen eine gro\u00dfe Menge an Stauraum f\u00fcr alle Ihre Badutensilien und sind einfach zu montieren. W\u00e4hlen Sie aus einer Vielzahl an Designs und Gr\u00f6\u00dfen, um die perfekte Waschtischplatte f\u00fcr Ihr Badezimmer zu finden. Unsere Waschtischplatten sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt die gro\u00dfe Auswahl an Waschtischplatten auf Badmobiliar24.de."
+          },
+          {
+            "title": "Bad-Hochschr\u00e4nke",
+            "text": "Auf Badmobiliar24.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/bad-hochschraenke/\" title=\"Bad-Hochschr\u00e4nke\">Bad-Hochschr\u00e4nke</a>n, die perfekt auf Ihre Bed\u00fcrfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Bad-Hochschr\u00e4nke bieten Ihnen viel Stauraum f\u00fcr alle Ihre Badutensilien und helfen Ihnen, Ihr Badezimmer ordentlich und aufger\u00e4umt zu halten. W\u00e4hlen Sie aus einer Vielzahl an Designs und Gr\u00f6\u00dfen, um den perfekten Bad-Hochschrank f\u00fcr Ihr Badezimmer zu finden. Entdecken Sie jetzt die gro\u00dfe Auswahl an Bad-Hochschr\u00e4nken auf Badmobiliar24.de."
+          },
+          {
+            "title": "Bad-H\u00e4ngeschr\u00e4nke",
+            "text": "Entdecken Sie die gro\u00dfe Auswahl an <a href=\"/kategorie/bad-haengeschraenke/\" title=\"Bad-H\u00e4ngeschr\u00e4nke\">Bad-H\u00e4ngeschr\u00e4nke</a>n auf Badmobiliar24.de. Unsere Bad-H\u00e4ngeschr\u00e4nke sind die perfekte L\u00f6sung, um Ihr Badezimmer ordentlich und aufger\u00e4umt zu halten. Sie bieten Ihnen viel Stauraum f\u00fcr alle Ihre Badutensilien und sind einfach an der Wand zu montieren. W\u00e4hlen Sie aus einer Vielzahl an Designs und Gr\u00f6\u00dfen, um das perfekte Bad-H\u00e4ngeschrank f\u00fcr Ihr Badezimmer zu finden. Unsere Bad-H\u00e4ngeschr\u00e4nke sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt die gro\u00dfe Auswahl an Bad-H\u00e4ngeschr\u00e4nken auf Badmobiliar24.de."
+          },
+          {
+            "title": "Bad-Einbauschr\u00e4nke",
+            "text": "Auf Badmobiliar24.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/bad-einbauschraenke/\" title=\"Bad-Einbauschr\u00e4nke\">Bad-Einbauschr\u00e4nke</a>n, die perfekt auf Ihre Bed\u00fcrfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Bad-Einbauschr\u00e4nke bieten Ihnen viel Stauraum f\u00fcr alle Ihre Badutensilien und sind einfach in Ihr Badezimmer zu integrieren. W\u00e4hlen Sie aus einer Vielzahl an Designs und Gr\u00f6\u00dfen, um den perfekten Bad-Einbauschrank f\u00fcr Ihr Badezimmer zu finden. Entdecken Sie jetzt die gro\u00dfe Auswahl an Bad-Einbauschr\u00e4nken auf Badmobiliar24.de."
+          },
+          {
+            "title": "Badm\u00f6bel-Sets",
+            "text": "Auf Badmobiliar24.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/badmoebel-sets/\" title=\"Badm\u00f6bel-Sets\">Badm\u00f6bel-Sets</a>, die perfekt auf Ihre Bed\u00fcrfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Badm\u00f6bel-Sets bieten Ihnen eine einfache und praktische M\u00f6glichkeit, Ihr Badezimmer auszustatten. W\u00e4hlen Sie aus einer Vielzahl an Designs und Gr\u00f6\u00dfen, um das perfekte Badm\u00f6bel-Set f\u00fcr Ihr Badezimmer zu finden. Entdecken Sie jetzt die gro\u00dfe Auswahl an Badm\u00f6bel-Sets auf Badmobiliar24.de."
+          },
+          {
+            "title": "Badm\u00f6bel-Zubeh\u00f6r",
+            "text": "Auf Badmobiliar24.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/badmoebel-zubehoer/\" title=\"Badm\u00f6bel-Zubeh\u00f6r\">Badm\u00f6bel-Zubeh\u00f6r</a>, das Ihnen dabei hilft, Ihr Badezimmer perfekt auszustatten. Unser Badm\u00f6bel-Zubeh\u00f6r bietet Ihnen eine Vielzahl an praktischen L\u00f6sungen, um Ihr Badezimmer ordentlich und aufger\u00e4umt zu halten. W\u00e4hlen Sie aus einer Vielzahl an Designs und Gr\u00f6\u00dfen, um das perfekte Badm\u00f6bel-Zubeh\u00f6r f\u00fcr Ihr Badezimmer zu finden. Entdecken Sie jetzt die gro\u00dfe Auswahl an Badm\u00f6bel-Zubeh\u00f6r auf Badmobiliar24.de."
+          },
+          {
+            "title": "Doppelwaschtische",
+            "text": "Auf Badmobiliar24.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/doppelwaschtische/\" title=\"Doppelwaschtische\">Doppelwaschtische</a>n, die perfekt auf Ihre Bed\u00fcrfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Doppelwaschtische bieten Ihnen viel Platz f\u00fcr alle Ihre Badutensilien und sind einfach zu montieren. W\u00e4hlen Sie aus einer Vielzahl an Designs und Gr\u00f6\u00dfen, um den perfekten Doppelwaschtisch f\u00fcr Ihr Badezimmer zu finden. Entdecken Sie jetzt die gro\u00dfe Auswahl an Doppelwaschtischen auf Badmobiliar24.de."
+          },
+          {
+            "title": "Badkommoden",
+            "text": "Auf Badmobiliar24.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/badkommoden/\" title=\"Badkommoden\">Badkommoden</a>, die perfekt auf Ihre Bed\u00fcrfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Badkommoden bieten Ihnen viel Stauraum f\u00fcr alle Ihre Badutensilien und sind einfach zu montieren. W\u00e4hlen Sie aus einer Vielzahl an Designs und Gr\u00f6\u00dfen, um die perfekte Badkommode f\u00fcr Ihr Badezimmer zu finden. Entdecken Sie jetzt die gro\u00dfe Auswahl an Badkommoden auf Badmobiliar24.de."
+          },
+          {
+            "title": "Duschregale",
+            "text": "Auf Badmobiliar24.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/duschregale/\" title=\"Duschregale\">Duschregale</a>n, die perfekt auf Ihre Bed\u00fcrfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Duschregale bieten Ihnen viel Stauraum f\u00fcr alle Ihre Badutensilien und sind einfach zu montieren. W\u00e4hlen Sie aus einer Vielzahl an Designs und Gr\u00f6\u00dfen, um das perfekte Duschregal f\u00fcr Ihr Badezimmer zu finden. Entdecken Sie jetzt die gro\u00dfe Auswahl an Duschregalen auf Badmobiliar24.de."
+          },
+          {
+            "title": "Bad-Standregale",
+            "text": "Auf Badmobiliar24.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/bad-standregale/\" title=\"Bad-Standregale\">Bad-Standregale</a>n, die perfekt auf Ihre Bed\u00fcrfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Bad-Standregale bieten Ihnen viel Stauraum f\u00fcr alle Ihre Badutensilien und sind einfach zu montieren. W\u00e4hlen Sie aus einer Vielzahl an Designs und Gr\u00f6\u00dfen, um das perfekte Bad-Standregal f\u00fcr Ihr Badezimmer zu finden. Entdecken Sie jetzt die gro\u00dfe Auswahl an Bad-Standregalen auf Badmobiliar24.de."
+          },
+          {
+            "title": "Teleskop-Regale",
+            "text": "Auf Badmobiliar24.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/teleskop-regale/\" title=\"Teleskop-Regale\">Teleskop-Regale</a>n, die perfekt auf Ihre Bed\u00fcrfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Teleskop-Regale bieten Ihnen viel Stauraum f\u00fcr alle Ihre Badutensilien und sind einfach zu montieren. W\u00e4hlen Sie aus einer Vielzahl an Designs und Gr\u00f6\u00dfen, um das perfekte Teleskop-Regal f\u00fcr Ihr Badezimmer zu finden. Entdecken Sie jetzt die gro\u00dfe Auswahl an Teleskop-Regalen auf Badmobiliar24.de."
+          },
+          {
+            "title": "Waschtisch G\u00e4ste-WC",
+            "text": "Auf Badmobiliar24.de finden Sie eine gro\u00dfe Auswahl an Waschtischen f\u00fcr das G\u00e4ste-WC, die perfekt auf Ihre Bed\u00fcrfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Waschtische f\u00fcr das G\u00e4ste-WC bieten Ihnen viel Stauraum und eine stilvolle Optik, die Ihr G\u00e4ste-WC zu einem echten Highlight macht. W\u00e4hlen Sie aus einer Vielzahl an Designs und Gr\u00f6\u00dfen, um den perfekten Waschtisch f\u00fcr Ihr G\u00e4ste-WC zu finden. Entdecken Sie jetzt die gro\u00dfe Auswahl an Waschtischen f\u00fcr das G\u00e4ste-WC auf Badmobiliar24.de."
+          },
+          {
+            "title": "Badhocker",
+            "text": "Auf Badmobiliar24.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/badhocker/\" title=\"Badhocker\">Badhocker</a>n, die perfekt auf Ihre Bed\u00fcrfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Badhocker bieten Ihnen eine bequeme Sitzm\u00f6glichkeit und eine stilvolle Optik, die Ihr Badezimmer zu einem echten Highlight macht. W\u00e4hlen Sie aus einer Vielzahl an Designs und Gr\u00f6\u00dfen, um den perfekten Badhocker f\u00fcr Ihr Badezimmer zu finden. Entdecken Sie jetzt die gro\u00dfe Auswahl an Badhockern auf Badmobiliar24.de."
+          },
+          {
+            "title": "Medizinschr\u00e4nke",
+            "text": "Auf Badmobiliar24.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/medizinschraenke/\" title=\"Medizinschr\u00e4nke\">Medizinschr\u00e4nke</a>n, die perfekt auf Ihre Bed\u00fcrfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Medizinschr\u00e4nke bieten Ihnen viel Stauraum f\u00fcr alle Ihre Badutensilien und sind einfach zu montieren. W\u00e4hlen Sie aus einer Vielzahl an Designs und Gr\u00f6\u00dfen, um den perfekten Medizinschrank f\u00fcr Ihr Badezimmer zu finden. Entdecken Sie jetzt die gro\u00dfe Auswahl an Medizinschr\u00e4nken auf Badmobiliar24.de."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE – die besten Möbel für Ihr Badezimmer",
-        "defaultMetaDescription": "Badezimmermöbel aus der Kategorie $KATEGORIE - Finde die besten Badezimmermöbel für dein Zuhause. Wähle aus einer Vielzahl von Stilen und Designs.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Badezimmerm\u00f6bel Shop",
+      "metaDescription": "Badezimmerm\u00f6bel Shop - Hier findest du alles f\u00fcr dein Badezimmer! Vom Duschregal, bis zu Medizinschr\u00e4nken - wir haben alles, was du f\u00fcr dein Bad brauchst!",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER | Badezimmermöbel",
-        "defaultMetaDescription": "Badmöbel von $HERSTELLER - Badmöbel von hoher Qualität für ein schönes Zuhause. Bestellen Sie jetzt die besten Produkte von $HERSTELLER. ",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Badmöbel",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Badmöbel Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Badmöbel Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Hersteller von Badezimmerm\u00f6bel",
+      "metaDescription": "Hersteller von Badm\u00f6beln bietet Ihnen eine gro\u00dfe Auswahl an qualitativ hochwertigen Badm\u00f6beln f\u00fcr Ihr Zuhause. Top Marken und top Produkte.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Erg\u00e4nzung f\u00fcr Ihr Badezimmer. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an $KATEGORIE.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE \u2013 die besten M\u00f6bel f\u00fcr Ihr Badezimmer",
+    "defaultMetaDescription": "Badezimmerm\u00f6bel aus der Kategorie $KATEGORIE - Finde die besten Badezimmerm\u00f6bel f\u00fcr dein Zuhause. W\u00e4hle aus einer Vielzahl von Stilen und Designs.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER | Badezimmerm\u00f6bel",
+    "defaultMetaDescription": "Badm\u00f6bel von $HERSTELLER - Badm\u00f6bel von hoher Qualit\u00e4t f\u00fcr ein sch\u00f6nes Zuhause. Bestellen Sie jetzt die besten Produkte von $HERSTELLER. ",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Badm\u00f6bel",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Badm\u00f6bel Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Badm\u00f6bel Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }

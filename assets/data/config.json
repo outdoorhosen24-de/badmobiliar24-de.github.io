@@ -1,317 +1,324 @@
 {
-  "configIsReady": true,
-  "domain": "badmobiliar24.de",
-  "hostname": "https://www.badmobiliar24.de/",
-  "email": "badmobiliar24.de@surrealnetworks.io",
-  "organization": "badmobiliar24.de",
-  "logoText": "Badmobiliar24.de",
-  "title": "Badmöbel",
-  "subline": "Der Online-Shop für Badezimmermöbel",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "7700289",
-    "7101355",
-    "9730698",
-    "5082094",
-    "5887237",
-    "5082060"
-  ],
-  "winnerProducts": [
-    "5135967",
-    "2457125",
-    "1753904"
-  ],
-  "featuredCategories": [
-    "Duschregale",
-    "Duschregale",
-    "Waschtisch Gäste-WC",
-    "Waschtisch Gäste-WC",
-    "Bad-Hochschränke",
-    "Medizinschränke"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Badmöbel",
-    "featureText": "Der Badezimmermöbel Shop ist die perfekte Lösung für alle, die auf der Suche nach neuen Möbeln für ihr Badezimmer sind. Das Sortiment reicht von Badkommode, über Duschregale bis hin zu Waschtischen und Waschbeckenunterschränken. Auch Badhocker und Medizinschränke werden angeboten. Die Preise sind fair, die Qualität der Möbel ausgezeichnet.",
-    "index": {
-      "title": "Der Shop für Badezimmermöbel",
-      "metaDescription": "Badmöbel für die Einrichtung Ihres Badezimmers. Badmöbel von hoher Qualität und in vielen verschiedenen Stilen. Schnelle Lieferung und top Preise.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Badmöbel24!",
-            "text": "Badmöbel24 ist Ihr Online-Shop für hochwertige und moderne Badmöbel. Bei uns finden Sie eine breite Auswahl an Waschtischen, Badezimmerschränken, Spiegelschränken und vielem mehr. Wir bieten Ihnen eine Vielzahl an verschiedenen Stilrichtungen und Designs, von klassisch bis modern, um Ihr Badezimmer genau nach Ihren Wünschen einzurichten. Unser Ziel ist es, Ihnen die bestmögliche Einkaufserfahrung zu bieten. Deshalb achten wir auf eine einfache Navigation und eine benutzerfreundliche Oberfläche. Außerdem bieten wir Ihnen eine sichere und zuverlässige Bestellabwicklung, damit Sie sich voll und ganz auf Ihre neuen Badmöbel freuen können. Schauen Sie sich in Ruhe um und entdecken Sie die vielfältigen Möglichkeiten, die wir Ihnen bieten. Ob Sie auf der Suche nach einem neuen Waschbecken sind oder Ihr komplettes Badezimmer renovieren möchten - bei uns finden Sie alles, was Sie brauchen. Wir sind stolz darauf, Ihnen eine große Auswahl an hochwertigen Produkten zu bieten und Ihnen bei der Gestaltung Ihres Badezimmers zur Seite zu stehen. Lassen Sie sich inspirieren und finden Sie Ihre neuen Badmöbel bei Badmöbel24. Wir freuen uns auf Ihre Bestellung!"
-          },
-          {
-            "title": "Waschtische",
-            "text": "Entdecken Sie die große Auswahl an <a href=\"/kategorie/waschtische/\" title=\"Waschtische\">Waschtische</a>n auf Badmobiliar24.de. Unsere Waschtische bieten Ihnen eine Vielzahl an Stilen, Größen und Materialien, um Ihr Badezimmer zu einem Ort der Entspannung und Eleganz zu machen. Wählen Sie aus einer Vielzahl an Designs, von modern bis traditionell, um Ihr Badezimmer zu einem Ort zu machen, an dem Sie sich wohl fühlen. Mit unseren Waschtischen können Sie Ihr Badezimmer nach Ihren Wünschen gestalten und es zu einem Raum machen, in dem Sie gerne Zeit verbringen."
-          },
-          {
-            "title": "Einzelwaschtische",
-            "text": "Ein Einzelwaschbecken ist die perfekte Wahl für kleine Badezimmer oder Gäste-WCs. Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/einzelwaschtische/\" title=\"Einzelwaschtische\">Einzelwaschtische</a>n in verschiedenen Größen, Formen und Materialien. Ob Sie ein klassisches oder modernes Design bevorzugen, wir haben das perfekte Einzelwaschbecken für Sie. Unsere Einzelwaschtische sind nicht nur stilvoll, sondern auch praktisch und funktional. Verleihen Sie Ihrem Badezimmer eine neue Persönlichkeit mit einem Einzelwaschbecken von Badmobiliar24.de."
-          },
-          {
-            "title": "Badezimmerschränke",
-            "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/badezimmerschraenke/\" title=\"Badezimmerschränke\">Badezimmerschränke</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Ob Sie einen klassischen Holzschrank oder einen modernen Hochglanzschrank bevorzugen, wir haben die perfekte Lösung für Sie. Unsere Badezimmerschränke bieten viel Stauraum für alle Ihre Badutensilien und helfen Ihnen, Ihr Badezimmer ordentlich und aufgeräumt zu halten. Entdecken Sie jetzt die große Auswahl an Badezimmerschränken auf Badmobiliar24.de."
-          },
-          {
-            "title": "Spiegelschränke",
-            "text": "Entdecken Sie die große Auswahl an <a href=\"/kategorie/spiegelschraenke/\" title=\"Spiegelschränke\">Spiegelschränke</a>n auf Badmobiliar24.de. Unsere Spiegelschränke sind nicht nur praktisch, sondern auch stilvoll und bieten Ihnen eine große Menge an Stauraum für alle Ihre Badutensilien. Wählen Sie aus einer Vielzahl an Designs und Größen, um Ihr Badezimmer zu einem Ort der Eleganz und Funktionalität zu machen. Unsere Spiegelschränke sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt die große Auswahl an Spiegelschränken auf Badmobiliar24.de."
-          },
-          {
-            "title": "Waschbeckenunterschränke",
-            "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/waschbeckenunterschraenke/\" title=\"Waschbeckenunterschränke\">Waschbeckenunterschränke</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Waschbeckenunterschränke bieten Ihnen viel Stauraum für alle Ihre Badutensilien und helfen Ihnen, Ihr Badezimmer ordentlich und aufgeräumt zu halten. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Waschbeckenunterschrank für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Waschbeckenunterschränken auf Badmobiliar24.de."
-          },
-          {
-            "title": "Badregale & Badablagen",
-            "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an Badregalen und Badablagen, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Badregale und Badablagen bieten Ihnen viel Stauraum für alle Ihre Badutensilien und helfen Ihnen, Ihr Badezimmer ordentlich und aufgeräumt zu halten. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Badregal oder die perfekte Badablage für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Badregalen und Badablagen auf Badmobiliar24.de."
-          },
-          {
-            "title": "Bad-Wandregale",
-            "text": "Entdecken Sie die große Auswahl an <a href=\"/kategorie/bad-wandregale/\" title=\"Bad-Wandregale\">Bad-Wandregale</a>n auf Badmobiliar24.de. Unsere Bad-Wandregale sind die perfekte Lösung, um Ihr Badezimmer ordentlich und aufgeräumt zu halten. Sie bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach an der Wand zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Bad-Wandregal für Ihr Badezimmer zu finden. Unsere Bad-Wandregale sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt die große Auswahl an Bad-Wandregalen auf Badmobiliar24.de."
-          },
-          {
-            "title": "Waschtischplatten",
-            "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/waschtischplatten/\" title=\"Waschtischplatten\">Waschtischplatten</a>, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Waschtischplatten bieten Ihnen eine große Menge an Stauraum für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um die perfekte Waschtischplatte für Ihr Badezimmer zu finden. Unsere Waschtischplatten sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt die große Auswahl an Waschtischplatten auf Badmobiliar24.de."
-          },
-          {
-            "title": "Bad-Hochschränke",
-            "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/bad-hochschraenke/\" title=\"Bad-Hochschränke\">Bad-Hochschränke</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Bad-Hochschränke bieten Ihnen viel Stauraum für alle Ihre Badutensilien und helfen Ihnen, Ihr Badezimmer ordentlich und aufgeräumt zu halten. Wählen Sie aus einer Vielzahl an Designs und Größen, um den perfekten Bad-Hochschrank für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Bad-Hochschränken auf Badmobiliar24.de."
-          },
-          {
-            "title": "Bad-Hängeschränke",
-            "text": "Entdecken Sie die große Auswahl an <a href=\"/kategorie/bad-haengeschraenke/\" title=\"Bad-Hängeschränke\">Bad-Hängeschränke</a>n auf Badmobiliar24.de. Unsere Bad-Hängeschränke sind die perfekte Lösung, um Ihr Badezimmer ordentlich und aufgeräumt zu halten. Sie bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach an der Wand zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Bad-Hängeschrank für Ihr Badezimmer zu finden. Unsere Bad-Hängeschränke sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt die große Auswahl an Bad-Hängeschränken auf Badmobiliar24.de."
-          },
-          {
-            "title": "Bad-Einbauschränke",
-            "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/bad-einbauschraenke/\" title=\"Bad-Einbauschränke\">Bad-Einbauschränke</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Bad-Einbauschränke bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach in Ihr Badezimmer zu integrieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um den perfekten Bad-Einbauschrank für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Bad-Einbauschränken auf Badmobiliar24.de."
-          },
-          {
-            "title": "Badmöbel-Sets",
-            "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/badmoebel-sets/\" title=\"Badmöbel-Sets\">Badmöbel-Sets</a>, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Badmöbel-Sets bieten Ihnen eine einfache und praktische Möglichkeit, Ihr Badezimmer auszustatten. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Badmöbel-Set für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Badmöbel-Sets auf Badmobiliar24.de."
-          },
-          {
-            "title": "Badmöbel-Zubehör",
-            "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/badmoebel-zubehoer/\" title=\"Badmöbel-Zubehör\">Badmöbel-Zubehör</a>, das Ihnen dabei hilft, Ihr Badezimmer perfekt auszustatten. Unser Badmöbel-Zubehör bietet Ihnen eine Vielzahl an praktischen Lösungen, um Ihr Badezimmer ordentlich und aufgeräumt zu halten. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Badmöbel-Zubehör für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Badmöbel-Zubehör auf Badmobiliar24.de."
-          },
-          {
-            "title": "Doppelwaschtische",
-            "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/doppelwaschtische/\" title=\"Doppelwaschtische\">Doppelwaschtische</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Doppelwaschtische bieten Ihnen viel Platz für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um den perfekten Doppelwaschtisch für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Doppelwaschtischen auf Badmobiliar24.de."
-          },
-          {
-            "title": "Badkommoden",
-            "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/badkommoden/\" title=\"Badkommoden\">Badkommoden</a>, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Badkommoden bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um die perfekte Badkommode für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Badkommoden auf Badmobiliar24.de."
-          },
-          {
-            "title": "Duschregale",
-            "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/duschregale/\" title=\"Duschregale\">Duschregale</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Duschregale bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Duschregal für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Duschregalen auf Badmobiliar24.de."
-          },
-          {
-            "title": "Bad-Standregale",
-            "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/bad-standregale/\" title=\"Bad-Standregale\">Bad-Standregale</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Bad-Standregale bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Bad-Standregal für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Bad-Standregalen auf Badmobiliar24.de."
-          },
-          {
-            "title": "Teleskop-Regale",
-            "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/teleskop-regale/\" title=\"Teleskop-Regale\">Teleskop-Regale</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Teleskop-Regale bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Teleskop-Regal für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Teleskop-Regalen auf Badmobiliar24.de."
-          },
-          {
-            "title": "Waschtisch Gäste-WC",
-            "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an Waschtischen für das Gäste-WC, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Waschtische für das Gäste-WC bieten Ihnen viel Stauraum und eine stilvolle Optik, die Ihr Gäste-WC zu einem echten Highlight macht. Wählen Sie aus einer Vielzahl an Designs und Größen, um den perfekten Waschtisch für Ihr Gäste-WC zu finden. Entdecken Sie jetzt die große Auswahl an Waschtischen für das Gäste-WC auf Badmobiliar24.de."
-          },
-          {
-            "title": "Badhocker",
-            "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/badhocker/\" title=\"Badhocker\">Badhocker</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Badhocker bieten Ihnen eine bequeme Sitzmöglichkeit und eine stilvolle Optik, die Ihr Badezimmer zu einem echten Highlight macht. Wählen Sie aus einer Vielzahl an Designs und Größen, um den perfekten Badhocker für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Badhockern auf Badmobiliar24.de."
-          },
-          {
-            "title": "Medizinschränke",
-            "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/medizinschraenke/\" title=\"Medizinschränke\">Medizinschränke</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Medizinschränke bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um den perfekten Medizinschrank für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Medizinschränken auf Badmobiliar24.de."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "badmobiliar24.de",
+    "hostname": "https://www.badmobiliar24.de/",
+    "email": "badmobiliar24.de@surrealnetworks.io",
+    "organization": "badmobiliar24.de",
+    "logoText": "Badmobiliar24.de",
+    "title": "Badmöbel",
+    "subline": "Der Online-Shop für Badezimmermöbel",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "7700289",
+        "7101355",
+        "9730698",
+        "5082094",
+        "5887237",
+        "5082060"
+    ],
+    "winnerProducts": [
+        "5135967",
+        "2457125",
+        "1753904"
+    ],
+    "featuredCategories": [
+        "Duschregale",
+        "Duschregale",
+        "Waschtisch Gäste-WC",
+        "Waschtisch Gäste-WC",
+        "Bad-Hochschränke",
+        "Medizinschränke"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Badmöbel",
+        "featureText": "Der Badezimmermöbel Shop ist die perfekte Lösung für alle, die auf der Suche nach neuen Möbeln für ihr Badezimmer sind. Das Sortiment reicht von Badkommode, über Duschregale bis hin zu Waschtischen und Waschbeckenunterschränken. Auch Badhocker und Medizinschränke werden angeboten. Die Preise sind fair, die Qualität der Möbel ausgezeichnet.",
+        "index": {
+            "title": "Der Shop für Badezimmermöbel",
+            "metaDescription": "Badmöbel für die Einrichtung Ihres Badezimmers. Badmöbel von hoher Qualität und in vielen verschiedenen Stilen. Schnelle Lieferung und top Preise.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Badmöbel24!",
+                        "text": "Badmöbel24 ist Ihr Online-Shop für hochwertige und moderne Badmöbel. Bei uns finden Sie eine breite Auswahl an Waschtischen, Badezimmerschränken, Spiegelschränken und vielem mehr. Wir bieten Ihnen eine Vielzahl an verschiedenen Stilrichtungen und Designs, von klassisch bis modern, um Ihr Badezimmer genau nach Ihren Wünschen einzurichten. Unser Ziel ist es, Ihnen die bestmögliche Einkaufserfahrung zu bieten. Deshalb achten wir auf eine einfache Navigation und eine benutzerfreundliche Oberfläche. Außerdem bieten wir Ihnen eine sichere und zuverlässige Bestellabwicklung, damit Sie sich voll und ganz auf Ihre neuen Badmöbel freuen können. Schauen Sie sich in Ruhe um und entdecken Sie die vielfältigen Möglichkeiten, die wir Ihnen bieten. Ob Sie auf der Suche nach einem neuen Waschbecken sind oder Ihr komplettes Badezimmer renovieren möchten - bei uns finden Sie alles, was Sie brauchen. Wir sind stolz darauf, Ihnen eine große Auswahl an hochwertigen Produkten zu bieten und Ihnen bei der Gestaltung Ihres Badezimmers zur Seite zu stehen. Lassen Sie sich inspirieren und finden Sie Ihre neuen Badmöbel bei Badmöbel24. Wir freuen uns auf Ihre Bestellung!"
+                    },
+                    {
+                        "title": "Waschtische",
+                        "text": "Entdecken Sie die große Auswahl an <a href=\"/kategorie/waschtische/\" title=\"Waschtische\">Waschtische</a>n auf Badmobiliar24.de. Unsere Waschtische bieten Ihnen eine Vielzahl an Stilen, Größen und Materialien, um Ihr Badezimmer zu einem Ort der Entspannung und Eleganz zu machen. Wählen Sie aus einer Vielzahl an Designs, von modern bis traditionell, um Ihr Badezimmer zu einem Ort zu machen, an dem Sie sich wohl fühlen. Mit unseren Waschtischen können Sie Ihr Badezimmer nach Ihren Wünschen gestalten und es zu einem Raum machen, in dem Sie gerne Zeit verbringen."
+                    },
+                    {
+                        "title": "Einzelwaschtische",
+                        "text": "Ein Einzelwaschbecken ist die perfekte Wahl für kleine Badezimmer oder Gäste-WCs. Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/einzelwaschtische/\" title=\"Einzelwaschtische\">Einzelwaschtische</a>n in verschiedenen Größen, Formen und Materialien. Ob Sie ein klassisches oder modernes Design bevorzugen, wir haben das perfekte Einzelwaschbecken für Sie. Unsere Einzelwaschtische sind nicht nur stilvoll, sondern auch praktisch und funktional. Verleihen Sie Ihrem Badezimmer eine neue Persönlichkeit mit einem Einzelwaschbecken von Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Badezimmerschränke",
+                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/badezimmerschraenke/\" title=\"Badezimmerschränke\">Badezimmerschränke</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Ob Sie einen klassischen Holzschrank oder einen modernen Hochglanzschrank bevorzugen, wir haben die perfekte Lösung für Sie. Unsere Badezimmerschränke bieten viel Stauraum für alle Ihre Badutensilien und helfen Ihnen, Ihr Badezimmer ordentlich und aufgeräumt zu halten. Entdecken Sie jetzt die große Auswahl an Badezimmerschränken auf Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Spiegelschränke",
+                        "text": "Entdecken Sie die große Auswahl an <a href=\"/kategorie/spiegelschraenke/\" title=\"Spiegelschränke\">Spiegelschränke</a>n auf Badmobiliar24.de. Unsere Spiegelschränke sind nicht nur praktisch, sondern auch stilvoll und bieten Ihnen eine große Menge an Stauraum für alle Ihre Badutensilien. Wählen Sie aus einer Vielzahl an Designs und Größen, um Ihr Badezimmer zu einem Ort der Eleganz und Funktionalität zu machen. Unsere Spiegelschränke sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt die große Auswahl an Spiegelschränken auf Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Waschbeckenunterschränke",
+                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/waschbeckenunterschraenke/\" title=\"Waschbeckenunterschränke\">Waschbeckenunterschränke</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Waschbeckenunterschränke bieten Ihnen viel Stauraum für alle Ihre Badutensilien und helfen Ihnen, Ihr Badezimmer ordentlich und aufgeräumt zu halten. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Waschbeckenunterschrank für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Waschbeckenunterschränken auf Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Badregale & Badablagen",
+                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an Badregalen und Badablagen, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Badregale und Badablagen bieten Ihnen viel Stauraum für alle Ihre Badutensilien und helfen Ihnen, Ihr Badezimmer ordentlich und aufgeräumt zu halten. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Badregal oder die perfekte Badablage für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Badregalen und Badablagen auf Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Bad-Wandregale",
+                        "text": "Entdecken Sie die große Auswahl an <a href=\"/kategorie/bad-wandregale/\" title=\"Bad-Wandregale\">Bad-Wandregale</a>n auf Badmobiliar24.de. Unsere Bad-Wandregale sind die perfekte Lösung, um Ihr Badezimmer ordentlich und aufgeräumt zu halten. Sie bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach an der Wand zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Bad-Wandregal für Ihr Badezimmer zu finden. Unsere Bad-Wandregale sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt die große Auswahl an Bad-Wandregalen auf Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Waschtischplatten",
+                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/waschtischplatten/\" title=\"Waschtischplatten\">Waschtischplatten</a>, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Waschtischplatten bieten Ihnen eine große Menge an Stauraum für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um die perfekte Waschtischplatte für Ihr Badezimmer zu finden. Unsere Waschtischplatten sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt die große Auswahl an Waschtischplatten auf Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Bad-Hochschränke",
+                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/bad-hochschraenke/\" title=\"Bad-Hochschränke\">Bad-Hochschränke</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Bad-Hochschränke bieten Ihnen viel Stauraum für alle Ihre Badutensilien und helfen Ihnen, Ihr Badezimmer ordentlich und aufgeräumt zu halten. Wählen Sie aus einer Vielzahl an Designs und Größen, um den perfekten Bad-Hochschrank für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Bad-Hochschränken auf Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Bad-Hängeschränke",
+                        "text": "Entdecken Sie die große Auswahl an <a href=\"/kategorie/bad-haengeschraenke/\" title=\"Bad-Hängeschränke\">Bad-Hängeschränke</a>n auf Badmobiliar24.de. Unsere Bad-Hängeschränke sind die perfekte Lösung, um Ihr Badezimmer ordentlich und aufgeräumt zu halten. Sie bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach an der Wand zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Bad-Hängeschrank für Ihr Badezimmer zu finden. Unsere Bad-Hängeschränke sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt die große Auswahl an Bad-Hängeschränken auf Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Bad-Einbauschränke",
+                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/bad-einbauschraenke/\" title=\"Bad-Einbauschränke\">Bad-Einbauschränke</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Bad-Einbauschränke bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach in Ihr Badezimmer zu integrieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um den perfekten Bad-Einbauschrank für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Bad-Einbauschränken auf Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Badmöbel-Sets",
+                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/badmoebel-sets/\" title=\"Badmöbel-Sets\">Badmöbel-Sets</a>, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Badmöbel-Sets bieten Ihnen eine einfache und praktische Möglichkeit, Ihr Badezimmer auszustatten. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Badmöbel-Set für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Badmöbel-Sets auf Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Badmöbel-Zubehör",
+                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/badmoebel-zubehoer/\" title=\"Badmöbel-Zubehör\">Badmöbel-Zubehör</a>, das Ihnen dabei hilft, Ihr Badezimmer perfekt auszustatten. Unser Badmöbel-Zubehör bietet Ihnen eine Vielzahl an praktischen Lösungen, um Ihr Badezimmer ordentlich und aufgeräumt zu halten. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Badmöbel-Zubehör für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Badmöbel-Zubehör auf Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Doppelwaschtische",
+                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/doppelwaschtische/\" title=\"Doppelwaschtische\">Doppelwaschtische</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Doppelwaschtische bieten Ihnen viel Platz für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um den perfekten Doppelwaschtisch für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Doppelwaschtischen auf Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Badkommoden",
+                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/badkommoden/\" title=\"Badkommoden\">Badkommoden</a>, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Badkommoden bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um die perfekte Badkommode für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Badkommoden auf Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Duschregale",
+                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/duschregale/\" title=\"Duschregale\">Duschregale</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Duschregale bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Duschregal für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Duschregalen auf Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Bad-Standregale",
+                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/bad-standregale/\" title=\"Bad-Standregale\">Bad-Standregale</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Bad-Standregale bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Bad-Standregal für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Bad-Standregalen auf Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Teleskop-Regale",
+                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/teleskop-regale/\" title=\"Teleskop-Regale\">Teleskop-Regale</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Teleskop-Regale bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um das perfekte Teleskop-Regal für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Teleskop-Regalen auf Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Waschtisch Gäste-WC",
+                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an Waschtischen für das Gäste-WC, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Waschtische für das Gäste-WC bieten Ihnen viel Stauraum und eine stilvolle Optik, die Ihr Gäste-WC zu einem echten Highlight macht. Wählen Sie aus einer Vielzahl an Designs und Größen, um den perfekten Waschtisch für Ihr Gäste-WC zu finden. Entdecken Sie jetzt die große Auswahl an Waschtischen für das Gäste-WC auf Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Badhocker",
+                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/badhocker/\" title=\"Badhocker\">Badhocker</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Badhocker bieten Ihnen eine bequeme Sitzmöglichkeit und eine stilvolle Optik, die Ihr Badezimmer zu einem echten Highlight macht. Wählen Sie aus einer Vielzahl an Designs und Größen, um den perfekten Badhocker für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Badhockern auf Badmobiliar24.de."
+                    },
+                    {
+                        "title": "Medizinschränke",
+                        "text": "Auf Badmobiliar24.de finden Sie eine große Auswahl an <a href=\"/kategorie/medizinschraenke/\" title=\"Medizinschränke\">Medizinschränke</a>n, die perfekt auf Ihre Bedürfnisse und den Stil Ihres Badezimmers abgestimmt sind. Unsere Medizinschränke bieten Ihnen viel Stauraum für alle Ihre Badutensilien und sind einfach zu montieren. Wählen Sie aus einer Vielzahl an Designs und Größen, um den perfekten Medizinschrank für Ihr Badezimmer zu finden. Entdecken Sie jetzt die große Auswahl an Medizinschränken auf Badmobiliar24.de."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Badezimmermöbel Shop",
+            "metaDescription": "Badezimmermöbel Shop - Hier findest du alles für dein Badezimmer! Vom Duschregal, bis zu Medizinschränken - wir haben alles, was du für dein Bad brauchst!",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Hersteller von Badezimmermöbel",
+            "metaDescription": "Hersteller von Badmöbeln bietet Ihnen eine große Auswahl an qualitativ hochwertigen Badmöbeln für Ihr Zuhause. Top Marken und top Produkte.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Badezimmermöbel Shop",
-      "metaDescription": "Badezimmermöbel Shop - Hier findest du alles für dein Badezimmer! Vom Duschregal, bis zu Medizinschränken - wir haben alles, was du für dein Bad brauchst!",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Hersteller von Badezimmermöbel",
-      "metaDescription": "Hersteller von Badmöbeln bietet Ihnen eine große Auswahl an qualitativ hochwertigen Badmöbeln für Ihr Zuhause. Top Marken und top Produkte.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Ergänzung für Ihr Badezimmer. Wählen Sie aus unserer großen Auswahl an $KATEGORIE.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "5135967",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Ergänzung für Ihr Badezimmer. Wählen Sie aus unserer großen Auswahl an $KATEGORIE.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Villeroy & Boch Hochschrank 35 cm Subway 2.0 A709 Glossy White Anschlag Links",
-              "text": "<p class=\"justify\">Der Villeroy & Boch Hochschrank 35 cm Subway 2.0 A709 Glossy White Anschlag Links ist ein stilvolles und praktisches Möbelstück für Ihr Badezimmer. Die renommierte Marke Villeroy & Boch ist bekannt für ihre hochwertigen und ansprechenden Badezimmermöbel. Diese ästhetisch ansprechende Hochschrank wird Ihnen helfen, Ordnung in Ihrem Bad zu halten und eine ansprechende Raumatmosphäre zu schaffen.</p><p class=\"justify\">Die Subway 2.0-Serie zeichnet sich durch ihre edle Formgebung aus und bietet eine breite Vielfalt an Badezimmermöbeln, die keine Wünsche offen lassen. Das dezente, aber stilvolle Design ist minimalistisch gehalten und legt den Fokus auf höchste Funktionalität. Der Hochschrank Subway 2.0 A709 bietet eine optimale Kombination aus Stauraum und ansprechender Optik. Mit einer Schublade und drei Fachböden haben Sie ausreichend Platz für all Ihre Pflegeartikel und täglichen Accessoires.</p><p class=\"justify\">In puncto Farbgebung besticht dieses Möbelstück durch seine Glossy White-Farbe für den Korpus und silberfarbene Griffleisten in Matt. Dadurch wird der Hochschrank zu einem dezenten Blickfang, der sich ideal in jedes Badezimmer einfügt. Der Schrank besteht aus hochwertigem Holz und ist besonders langlebig und robust. Mit einer Breite von 35 cm, einer Höhe von 165 cm und einer Tiefe von 37 cm ist der Hochschrank ideal für den Einsatz in Badezimmern verschiedener Größen geeignet.</p><p class=\"justify\">Der Anschlag (Scharnier) befindet sich beim Hochschrank links. Der Schrank ist für die Wandmontage vorgesehen, und ein Befestigungssatz wird für die Montage mitgeliefert. Mit seinem zeitlosen Design und der klassischen Farbkombination bietet der Villeroy & Boch Hochschrank 35 cm Subway 2.0 A709 Glossy White Anschlag Links Ihrem Badezimmer eine ansprechende und praktische Stauraumlösung.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "2457125",
-        "seo": {
-          "texts": [
-            {
-              "title": "Pelipal Waschbeckenunterschrank Fokus 4010: Stilvolle und funktionale Badmöbel",
-              "text": "<p class=\"justify\">Entdecken Sie den Pelipal Waschbeckenunterschrank Fokus 4010 in elegantem Weiß Glanz! Mit seinen Maßen von 49,2 cm x 80 cm x 43 cm bietet er ausreichend Stauraum für Badutensilien und fügt sich dank seines zeitlosen Designs hervorragend in jedes Badezimmer ein. Dieses stilvolle Möbelstück ist Teil der Serie 4010, die für praktische Handhabung, schnelle Lieferung und übersichtliche Auswahl steht.</p><p class=\"justify\">Der leicht gewölbte Waschtischunterschrank verleiht zusammen mit dem großzügigen Keramik-Waschtisch dem Badezimmer eine sinnliche Anmutung. Die Kombination aus hochwertiger und pflegeleichter Folienbeschichtung und weißen Melamin-Innenseiten sorgt für problemlose Reinigung und weniger Feuchtigkeitsanfälligkeit. Die glänzenden Bügelgriffe in Chrom fügen sich optimal in das harmonische Gesamtbild ein.</p><p class=\"justify\">Zudem lässt sich der Pelipal Waschbeckenunterschrank Fokus 4010 wunderbar mit passenden Wandschränken ergänzen, um individuelle Konstellationen zu schaffen. Die Qualität und der funktionale Nutzen dieses Möbelstücks überzeugen auf ganzer Linie. Mit 360 Bewertungen und 4 Sternen bestätigen zufriedene Kunden die exzellente Qualität und das ansprechende Design dieses Waschbeckenunterschranks.</p><p class=\"justify\">Gönnen Sie sich den Pelipal Waschbeckenunterschrank Fokus 4010 in Weiß Glanz und schaffen Sie sich Ihren persönlichen, eleganten Rückzugsort in Ihrem Badezimmer. Erleben Sie die Vorzüge dieses hochwertigen und durchdachten Möbelstücks und genießen Sie die stilvolle Atmosphäre, die es Ihrem Bad verleiht.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "1753904",
-        "seo": {
-          "texts": [
-            {
-              "title": "Posseik Waschplatz 90 cm Metis Weiß Hochglanz mit grifflosen Schubladen",
-              "text": "<p class=\"justify\">Erleben Sie die Eleganz und Funktionalität des Posseik Waschplatz Metis 90 cm in strahlendem Weiß Hochglanz. Dieser Waschtisch kombiniert Qualität, Klasse und schickes Design für ein modernes Badezimmer oder Gäste-WC. Die grifflosen Schubladen mit Softclose-Funktion bieten sanftes und leises Schließen für optimalen Stauraum und einfache Handhabung. Das leicht nach innen gerundete Mineralguss-Waschbecken mit breitem Rand fügt sich nahtlos in das ansprechende Gesamtbild des Badmöbels ein.</p><p class=\"justify\">Neben seiner modernen Optik überzeugt der Posseik Waschplatz Metis 90 cm durch seine nützlichen Eigenschaften, die für den täglichen Bedarf im Badezimmer unverzichtbar sind. Die beiden Schubladen bieten genügend Platz für notwendige Badutensilien, und in der oberen Schublade befindet sich ein kleineres Fach für Schmuck oder Haar-Accessoires. Die starken Oberflächen am Mineralguss-Waschbecken und Waschtisch erleichtern die Reinigung und garantieren eine lange Lebensdauer. Einfach mit einem sanften Badreiniger und einem feuchten Tuch den ursprünglichen Zustand wiederherstellen.</p><p class=\"justify\">Genießen Sie die Vorteile der Melaminbeschichtung, die die Posseik Badmöbel feuchtigkeitsbeständig und pflegeleicht macht. Ergänzen Sie das Badmöbel mit weiteren Schränken aus der Produktserie, um zusätzlichen Stauraum zu schaffen. Mit dem Posseik Waschplatz Metis 90 cm können Sie Ihrem Badezimmer Stil, Eleganz und Praktikabilität verleihen, ohne auf Qualität und Funktionalität zu verzichten.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "7002892",
-        "seo": {
-          "texts": [
-            {
-              "title": "baliv Moss Green trend Waschbeckenschrank BM-6530 Holz Moosgrün",
-              "text": "<p class=\"justify\">Der baliv Moss Green trend Waschbeckenschrank BM-6530 ist ein optisches Highlight für jedes Badezimmer. Mit seinem modernen Look und der angesagten Farbe Moosgrün wird dieser Waschbeckenunterschrank zu einem echten Hingucker. Die schicken Füße und das robuste Holz sorgen dafür, dass Sie lange Freude an diesem Badmöbel haben. Der Waschbeckenschrank bietet viel Platz für Badartikel wie Toilettenpapier und Handtücher und sorgt für Ordnung in Ihrem Badezimmer.</p><p class=\"justify\">Die Maße von 88 cm x 80 cm x 48 cm (H x B x T) offenbaren viel Stauraum für Ihre Badutensilien. Neben seinem ansprechenden Design ist der baliv Moss Green trend Waschbeckenschrank auch flexibel kombinierbar mit anderen Badmöbeln und Accessoires. Die Marke baliv ist bekannt für ihre qualitativ hochwertigen und stilvollen Bad-Accessoires, die jedes Badezimmer in eine Wohlfühloase verwandeln.</p><p class=\"justify\">Passend zum Waschbeckenschrank gibt es weitere Bad-Accessoires im gleichen Stil – für ein stimmiges Gesamtbild in Ihrem Bad. baliv setzt auf Qualität und Design, sodass die Bad-Accessoires auch bei täglicher Nutzung und Zahnpastaflecken noch großartig aussehen. Entdecken Sie die Vielfalt der baliv Moss Green trend Serie und genießen Sie Ihr neues, perfekt ausgestattetes Badezimmer.</p><p class=\"justify\">Mit einer GTIN13 von 4007873435300 und einer SKU von 7002892 ist der baliv Moss Green trend Waschbeckenschrank BM-6530 ein hochwertiges Produkt der Kategorie Waschbeckenunterschränke.  Treffen Sie eine ausgezeichnete Wahl für Ihr Badezimmer und lassen Sie sich von der Qualität und dem Design des baliv Moss Green trend Waschbeckenschranks BM-6530 begeistern.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "4044756",
-        "seo": {
-          "texts": [
-            {
-              "title": "baliv Waschbeckenunterschrank BM-6630 Weiß",
-              "text": "<p class=\"justify\">Der baliv Waschbeckenunterschrank BM-6630 setzt mit seinem modernen Look neue Akzente in Ihrem Badezimmer. Die ansprechende Kombination aus Hochglanzoptik und Holzelementen machen diesen Unterschrank zu einem echten Hingucker. Die schlichte Farbgestaltung in Weiß erlaubt eine harmonische Integration in die verschiedensten Einrichtungsstile.</p><p class=\"justify\">Mit den Maßen von 83 cm x 59,7 cm x 45,7 cm (H x B x T) bietet der Waschbeckenunterschrank ausreichend Stauraum für Ihre Badutensilien. Die praktischen Soft-Close-Türen ermöglichen ein sanftes Schließen und bieten somit eine komfortable Nutzung. Dank der Möglichkeit zur Selbstmontage lässt sich der Badschrank schnell und unkompliziert aufbauen und in Betrieb nehmen.</p><p class=\"justify\">Der baliv Waschbeckenunterschrank BM-6630 zeichnet sich durch seine hochwertigen und robusten Materialien aus. Der FSC-zertifizierte Holzmix trägt nicht nur zur Stabilität und Langlebigkeit des Unterschranks bei, sondern ist darüber hinaus besonders pflegeleicht. So haben Sie lange Freude an Ihrem Badezimmermöbel.</p><p class=\"justify\">Im Badezimmer beginnt und endet Ihr Tag. Darum ist es wichtig, dass Qualität, Design und Funktion in diesem zentralen Raum eine harmonische Einheit bilden. Die baliv Badmöbel-Sets bieten Ihnen genau diese Kombination und begleiten Sie und Ihre Familie zuverlässig im Alltag. Entdecken Sie die Vorzüge des baliv Waschbeckenunterschranks BM-6630 in Weiß und erleben Sie eine neue Dimension der Badezimmereinrichtung.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "9730938",
-        "seo": {
-          "texts": [
-            {
-              "title": "Pelipal Waschtischplatte Serie 4035 Riviera Eiche quer NB 118 cm",
-              "text": "<p class=\"justify\">Die Pelipal Waschtischplatte Serie 4035 Riviera Eiche quer NB 118 cm ist eine hochwertige und elegante Option für jeden, der sein Badezimmer stilvoll gestalten möchte. Die Marke Pelipal ist bekannt für ihre erstklassigen Badmöbel und Waschtische und bietet mit diesem Produkt eine ansprechende Lösung für unterschiedlichste Bedürfnisse in puncto Badezimmergestaltung.</p><p class=\"justify\">Die Waschtischplatte besticht durch ihre warme Riviera Eiche Oberfläche in Queroptik, die hervorragend zu modernen und minimalistischen Einrichtungskonzepten passt. Sie verleiht dem Raum eine natürliche und behagliche Atmosphäre und lässt sich sowohl mit weiteren Badmöbeln von Pelipal als auch mit Elementen anderer Anbieter kombinieren.</p><p class=\"justify\">Mit einer Breite von 118 cm und einem attraktiven Design bietet die Pelipal Waschtischplatte Serie 4035 Riviera Eiche quer NB ausreichend Platz für Einzel- oder Doppelwaschtische und erfüllt somit die Anforderungen verschiedener Raumgrößen und Nutzungsbedürfnisse. Die hochwertige Verarbeitung sorgt für Langlebigkeit und Robustheit im täglichen Gebrauch und belegt die hohe Qualität der Produkte von Pelipal.</p><p class=\"justify\">Die Pelipal Waschtischplatte Serie 4035 Riviera Eiche quer NB 118 cm ist eine ideale Wahl für all jene, die Funktion und Ästhetik gleichermaßen schätzen. Sie besticht durch ihr erstklassiges Design, die hochwertige Materialverarbeitung und passt perfekt zu den anderen Produkten der Serie 4035 von Pelipal wie Waschtischunterschränken und Spiegelschränken. Mit dieser Waschtischplatte können Sie sicher sein, dass Ihr Badezimmer zu einem modernen und stilvollen Inhouse-Spa wird.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE – die besten Möbel für Ihr Badezimmer",
-    "defaultMetaDescription": "Badezimmermöbel aus der Kategorie $KATEGORIE - Finde die besten Badezimmermöbel für dein Zuhause. Wähle aus einer Vielzahl von Stilen und Designs.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "5135967",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Villeroy & Boch Hochschrank 35 cm Subway 2.0 A709 Glossy White Anschlag Links",
+                            "text": "<p class=\"justify\">Der Villeroy & Boch Hochschrank 35 cm Subway 2.0 A709 Glossy White Anschlag Links ist ein stilvolles und praktisches Möbelstück für Ihr Badezimmer. Die renommierte Marke Villeroy & Boch ist bekannt für ihre hochwertigen und ansprechenden Badezimmermöbel. Diese ästhetisch ansprechende Hochschrank wird Ihnen helfen, Ordnung in Ihrem Bad zu halten und eine ansprechende Raumatmosphäre zu schaffen.</p><p class=\"justify\">Die Subway 2.0-Serie zeichnet sich durch ihre edle Formgebung aus und bietet eine breite Vielfalt an Badezimmermöbeln, die keine Wünsche offen lassen. Das dezente, aber stilvolle Design ist minimalistisch gehalten und legt den Fokus auf höchste Funktionalität. Der Hochschrank Subway 2.0 A709 bietet eine optimale Kombination aus Stauraum und ansprechender Optik. Mit einer Schublade und drei Fachböden haben Sie ausreichend Platz für all Ihre Pflegeartikel und täglichen Accessoires.</p><p class=\"justify\">In puncto Farbgebung besticht dieses Möbelstück durch seine Glossy White-Farbe für den Korpus und silberfarbene Griffleisten in Matt. Dadurch wird der Hochschrank zu einem dezenten Blickfang, der sich ideal in jedes Badezimmer einfügt. Der Schrank besteht aus hochwertigem Holz und ist besonders langlebig und robust. Mit einer Breite von 35 cm, einer Höhe von 165 cm und einer Tiefe von 37 cm ist der Hochschrank ideal für den Einsatz in Badezimmern verschiedener Größen geeignet.</p><p class=\"justify\">Der Anschlag (Scharnier) befindet sich beim Hochschrank links. Der Schrank ist für die Wandmontage vorgesehen, und ein Befestigungssatz wird für die Montage mitgeliefert. Mit seinem zeitlosen Design und der klassischen Farbkombination bietet der Villeroy & Boch Hochschrank 35 cm Subway 2.0 A709 Glossy White Anschlag Links Ihrem Badezimmer eine ansprechende und praktische Stauraumlösung.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "2457125",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Pelipal Waschbeckenunterschrank Fokus 4010: Stilvolle und funktionale Badmöbel",
+                            "text": "<p class=\"justify\">Entdecken Sie den Pelipal Waschbeckenunterschrank Fokus 4010 in elegantem Weiß Glanz! Mit seinen Maßen von 49,2 cm x 80 cm x 43 cm bietet er ausreichend Stauraum für Badutensilien und fügt sich dank seines zeitlosen Designs hervorragend in jedes Badezimmer ein. Dieses stilvolle Möbelstück ist Teil der Serie 4010, die für praktische Handhabung, schnelle Lieferung und übersichtliche Auswahl steht.</p><p class=\"justify\">Der leicht gewölbte Waschtischunterschrank verleiht zusammen mit dem großzügigen Keramik-Waschtisch dem Badezimmer eine sinnliche Anmutung. Die Kombination aus hochwertiger und pflegeleichter Folienbeschichtung und weißen Melamin-Innenseiten sorgt für problemlose Reinigung und weniger Feuchtigkeitsanfälligkeit. Die glänzenden Bügelgriffe in Chrom fügen sich optimal in das harmonische Gesamtbild ein.</p><p class=\"justify\">Zudem lässt sich der Pelipal Waschbeckenunterschrank Fokus 4010 wunderbar mit passenden Wandschränken ergänzen, um individuelle Konstellationen zu schaffen. Die Qualität und der funktionale Nutzen dieses Möbelstücks überzeugen auf ganzer Linie. Mit 360 Bewertungen und 4 Sternen bestätigen zufriedene Kunden die exzellente Qualität und das ansprechende Design dieses Waschbeckenunterschranks.</p><p class=\"justify\">Gönnen Sie sich den Pelipal Waschbeckenunterschrank Fokus 4010 in Weiß Glanz und schaffen Sie sich Ihren persönlichen, eleganten Rückzugsort in Ihrem Badezimmer. Erleben Sie die Vorzüge dieses hochwertigen und durchdachten Möbelstücks und genießen Sie die stilvolle Atmosphäre, die es Ihrem Bad verleiht.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "1753904",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Posseik Waschplatz 90 cm Metis Weiß Hochglanz mit grifflosen Schubladen",
+                            "text": "<p class=\"justify\">Erleben Sie die Eleganz und Funktionalität des Posseik Waschplatz Metis 90 cm in strahlendem Weiß Hochglanz. Dieser Waschtisch kombiniert Qualität, Klasse und schickes Design für ein modernes Badezimmer oder Gäste-WC. Die grifflosen Schubladen mit Softclose-Funktion bieten sanftes und leises Schließen für optimalen Stauraum und einfache Handhabung. Das leicht nach innen gerundete Mineralguss-Waschbecken mit breitem Rand fügt sich nahtlos in das ansprechende Gesamtbild des Badmöbels ein.</p><p class=\"justify\">Neben seiner modernen Optik überzeugt der Posseik Waschplatz Metis 90 cm durch seine nützlichen Eigenschaften, die für den täglichen Bedarf im Badezimmer unverzichtbar sind. Die beiden Schubladen bieten genügend Platz für notwendige Badutensilien, und in der oberen Schublade befindet sich ein kleineres Fach für Schmuck oder Haar-Accessoires. Die starken Oberflächen am Mineralguss-Waschbecken und Waschtisch erleichtern die Reinigung und garantieren eine lange Lebensdauer. Einfach mit einem sanften Badreiniger und einem feuchten Tuch den ursprünglichen Zustand wiederherstellen.</p><p class=\"justify\">Genießen Sie die Vorteile der Melaminbeschichtung, die die Posseik Badmöbel feuchtigkeitsbeständig und pflegeleicht macht. Ergänzen Sie das Badmöbel mit weiteren Schränken aus der Produktserie, um zusätzlichen Stauraum zu schaffen. Mit dem Posseik Waschplatz Metis 90 cm können Sie Ihrem Badezimmer Stil, Eleganz und Praktikabilität verleihen, ohne auf Qualität und Funktionalität zu verzichten.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "7002892",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "baliv Moss Green trend Waschbeckenschrank BM-6530 Holz Moosgrün",
+                            "text": "<p class=\"justify\">Der baliv Moss Green trend Waschbeckenschrank BM-6530 ist ein optisches Highlight für jedes Badezimmer. Mit seinem modernen Look und der angesagten Farbe Moosgrün wird dieser Waschbeckenunterschrank zu einem echten Hingucker. Die schicken Füße und das robuste Holz sorgen dafür, dass Sie lange Freude an diesem Badmöbel haben. Der Waschbeckenschrank bietet viel Platz für Badartikel wie Toilettenpapier und Handtücher und sorgt für Ordnung in Ihrem Badezimmer.</p><p class=\"justify\">Die Maße von 88 cm x 80 cm x 48 cm (H x B x T) offenbaren viel Stauraum für Ihre Badutensilien. Neben seinem ansprechenden Design ist der baliv Moss Green trend Waschbeckenschrank auch flexibel kombinierbar mit anderen Badmöbeln und Accessoires. Die Marke baliv ist bekannt für ihre qualitativ hochwertigen und stilvollen Bad-Accessoires, die jedes Badezimmer in eine Wohlfühloase verwandeln.</p><p class=\"justify\">Passend zum Waschbeckenschrank gibt es weitere Bad-Accessoires im gleichen Stil – für ein stimmiges Gesamtbild in Ihrem Bad. baliv setzt auf Qualität und Design, sodass die Bad-Accessoires auch bei täglicher Nutzung und Zahnpastaflecken noch großartig aussehen. Entdecken Sie die Vielfalt der baliv Moss Green trend Serie und genießen Sie Ihr neues, perfekt ausgestattetes Badezimmer.</p><p class=\"justify\">Mit einer GTIN13 von 4007873435300 und einer SKU von 7002892 ist der baliv Moss Green trend Waschbeckenschrank BM-6530 ein hochwertiges Produkt der Kategorie Waschbeckenunterschränke.  Treffen Sie eine ausgezeichnete Wahl für Ihr Badezimmer und lassen Sie sich von der Qualität und dem Design des baliv Moss Green trend Waschbeckenschranks BM-6530 begeistern.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "4044756",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "baliv Waschbeckenunterschrank BM-6630 Weiß",
+                            "text": "<p class=\"justify\">Der baliv Waschbeckenunterschrank BM-6630 setzt mit seinem modernen Look neue Akzente in Ihrem Badezimmer. Die ansprechende Kombination aus Hochglanzoptik und Holzelementen machen diesen Unterschrank zu einem echten Hingucker. Die schlichte Farbgestaltung in Weiß erlaubt eine harmonische Integration in die verschiedensten Einrichtungsstile.</p><p class=\"justify\">Mit den Maßen von 83 cm x 59,7 cm x 45,7 cm (H x B x T) bietet der Waschbeckenunterschrank ausreichend Stauraum für Ihre Badutensilien. Die praktischen Soft-Close-Türen ermöglichen ein sanftes Schließen und bieten somit eine komfortable Nutzung. Dank der Möglichkeit zur Selbstmontage lässt sich der Badschrank schnell und unkompliziert aufbauen und in Betrieb nehmen.</p><p class=\"justify\">Der baliv Waschbeckenunterschrank BM-6630 zeichnet sich durch seine hochwertigen und robusten Materialien aus. Der FSC-zertifizierte Holzmix trägt nicht nur zur Stabilität und Langlebigkeit des Unterschranks bei, sondern ist darüber hinaus besonders pflegeleicht. So haben Sie lange Freude an Ihrem Badezimmermöbel.</p><p class=\"justify\">Im Badezimmer beginnt und endet Ihr Tag. Darum ist es wichtig, dass Qualität, Design und Funktion in diesem zentralen Raum eine harmonische Einheit bilden. Die baliv Badmöbel-Sets bieten Ihnen genau diese Kombination und begleiten Sie und Ihre Familie zuverlässig im Alltag. Entdecken Sie die Vorzüge des baliv Waschbeckenunterschranks BM-6630 in Weiß und erleben Sie eine neue Dimension der Badezimmereinrichtung.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "9730938",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Pelipal Waschtischplatte Serie 4035 Riviera Eiche quer NB 118 cm",
+                            "text": "<p class=\"justify\">Die Pelipal Waschtischplatte Serie 4035 Riviera Eiche quer NB 118 cm ist eine hochwertige und elegante Option für jeden, der sein Badezimmer stilvoll gestalten möchte. Die Marke Pelipal ist bekannt für ihre erstklassigen Badmöbel und Waschtische und bietet mit diesem Produkt eine ansprechende Lösung für unterschiedlichste Bedürfnisse in puncto Badezimmergestaltung.</p><p class=\"justify\">Die Waschtischplatte besticht durch ihre warme Riviera Eiche Oberfläche in Queroptik, die hervorragend zu modernen und minimalistischen Einrichtungskonzepten passt. Sie verleiht dem Raum eine natürliche und behagliche Atmosphäre und lässt sich sowohl mit weiteren Badmöbeln von Pelipal als auch mit Elementen anderer Anbieter kombinieren.</p><p class=\"justify\">Mit einer Breite von 118 cm und einem attraktiven Design bietet die Pelipal Waschtischplatte Serie 4035 Riviera Eiche quer NB ausreichend Platz für Einzel- oder Doppelwaschtische und erfüllt somit die Anforderungen verschiedener Raumgrößen und Nutzungsbedürfnisse. Die hochwertige Verarbeitung sorgt für Langlebigkeit und Robustheit im täglichen Gebrauch und belegt die hohe Qualität der Produkte von Pelipal.</p><p class=\"justify\">Die Pelipal Waschtischplatte Serie 4035 Riviera Eiche quer NB 118 cm ist eine ideale Wahl für all jene, die Funktion und Ästhetik gleichermaßen schätzen. Sie besticht durch ihr erstklassiges Design, die hochwertige Materialverarbeitung und passt perfekt zu den anderen Produkten der Serie 4035 von Pelipal wie Waschtischunterschränken und Spiegelschränken. Mit dieser Waschtischplatte können Sie sicher sein, dass Ihr Badezimmer zu einem modernen und stilvollen Inhouse-Spa wird.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE – die besten Möbel für Ihr Badezimmer",
+        "defaultMetaDescription": "Badezimmermöbel aus der Kategorie $KATEGORIE - Finde die besten Badezimmermöbel für dein Zuhause. Wähle aus einer Vielzahl von Stilen und Designs.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER | Badezimmermöbel",
+        "defaultMetaDescription": "Badmöbel von $HERSTELLER - Badmöbel von hoher Qualität für ein schönes Zuhause. Bestellen Sie jetzt die besten Produkte von $HERSTELLER. ",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Badmöbel",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Badmöbel Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Badmöbel Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER | Badezimmermöbel",
-    "defaultMetaDescription": "Badmöbel von $HERSTELLER - Badmöbel von hoher Qualität für ein schönes Zuhause. Bestellen Sie jetzt die besten Produkte von $HERSTELLER. ",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Badmöbel",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Badmöbel Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Badmöbel Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
